@@ -1,0 +1,3750 @@
+INPUT:
+MultiTapeMachine 3
+cabbbcbbacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a b * q1 c b * R * *
+q0 a * * q0 c b c * R *
+q2 a b b q0 c * c L * L
+q1 b a * q4 * b b L L R
+q0 a c a q2 a a c R R R
+q3 c * * q4 * b b L R R
+q3 a * b qf0 c c a R L L
+qf0 a c b qf1 b a b R R R
+q2 * c a q0 a a * R L L
+q4 * a a q0 b b a R L R
+
+MultiTapeMachine 3
+cccbcacabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacbcbacccbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * c * q1 * b b * L L
+q4 b a b qf0 a c a * * R
+qf0 c * * qf1 * * a L * *
+q0 * * * q0 c b * * * R
+q3 * * * qf0 a c a * * L
+q2 c a * qf1 c b b * * *
+qf0 a c * q1 c b c L R *
+qf0 a c a q0 a * a * L *
+q3 c c c q2 b c a * R R
+q3 b c c q2 a a c L R L
+
+MultiTapeMachine 3
+bcccaabacacccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcccababacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b a a qf1 c * b * * R
+q3 b * a q2 * a a R R *
+qf1 a * * q0 a a b * * L
+q2 * c b qf0 c c a L * *
+q4 b * c qf0 c b * * * R
+q1 b * b q0 a a c R * *
+q3 * a * qf1 a a * R * L
+q1 c a c qf0 a * a R * *
+qf1 a c c q2 c c a R L *
+qf0 c c * qf0 c * c R R L
+
+MultiTapeMachine 3
+cbbbcaaaababaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaccbabcbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a * c q2 b a b L R L
+qf0 b b a qf1 * b a R * R
+q1 b c c q3 a * c L * R
+q4 c * a q1 b b b L L L
+qf0 c a b qf0 a * c * L *
+q1 b * c qf1 b a c * R L
+q2 c c a qf0 * b a L R R
+q4 a c c qf1 c a b * * *
+q3 b c b q1 b * * * * L
+q1 c * c q3 * a c * R L
+
+MultiTapeMachine 3
+bcabaccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabbacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcbcbbcaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b * * q3 a c c * R *
+qf1 c c a q3 * b * L L L
+qf0 a * c q4 c a c L R *
+q0 c a b qf0 a b a R * L
+q0 a * a q3 b b c L L R
+q4 c b * qf0 c a b L R L
+qf0 b b b q1 b b * R L R
+q3 b * a q4 b c b * * L
+q1 * c c qf0 a * a * L L
+q0 c c c qf0 * a c R * L
+
+MultiTapeMachine 3
+ccaaabcacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acacaaccacbabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaababaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b * q1 a b a * * L
+q2 a b c qf0 a b b * * *
+q4 c * * q0 * b c * * R
+qf1 a a * q1 c a b R L *
+q0 a * a q4 a * b L R *
+qf0 a * * qf0 b b a L L *
+q1 * * c q3 * a b * R R
+q3 * c b q4 * * * L R *
+q1 c c c q0 b * * * * *
+qf1 b a a q0 c b a L * *
+
+MultiTapeMachine 3
+cabbacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabacaacabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbccababcabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b a * q0 c a * * R *
+q4 c c b q2 * b c R L *
+q1 * * a q3 b * a L * R
+q2 c b c q0 * a b L L L
+q1 * a * q2 * a a R L *
+q2 a * c q1 a b a * L L
+q0 a c b qf0 b * c * R R
+q2 * a * qf0 * * a * * R
+q1 b a * q2 b * * * R *
+q3 c b a q0 b * b L * L
+
+MultiTapeMachine 3
+baccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaabbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b c q2 * b a * * R
+qf0 b a b q0 a * * * R *
+q1 b a b q2 a c a L R R
+q2 b * * q3 * a * L * L
+q3 b c c q3 b b a * * *
+q0 * c a qf1 b a a R L L
+q1 * a a q1 b a a R R *
+qf0 * b a q2 * * a * L R
+qf1 c a c qf0 * * c L R L
+q2 b b b q0 a c c * R *
+
+MultiTapeMachine 3
+caccabcbcaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabcbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b a q1 c * a R R R
+q4 a a b q0 b * a L L R
+q3 b c a q0 * * a L L R
+qf1 c b a q4 c b * R R *
+q1 * c a q1 c * a * L R
+q3 b a a q3 c c c L * L
+q3 b * * q4 * c c L * L
+q0 a a b q4 * a b R * L
+q3 b c * q2 b b c * * L
+q2 b a * q2 c b a L L *
+
+MultiTapeMachine 3
+ccbaababbbccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acccaaacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b * q4 c * a R * L
+q0 c c c qf0 b * c * * R
+qf1 * a * qf0 c c a L L R
+qf1 a * b q3 a a a L * *
+qf1 * b a q3 c a c L R *
+qf1 a * * q4 c a b L R L
+q2 c b c q3 b c a * * L
+q3 * c * q2 c * c * * R
+qf0 * b b q4 a c b L R R
+q0 a b b q2 * a c R R R
+
+MultiTapeMachine 3
+cacaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbcbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaaabacbcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b * q4 b a c R * L
+q1 * c * q1 b c b * * R
+q1 c * * q2 a b b * L L
+q1 * b a q4 b c c * L R
+q2 c c b q2 * * b L R R
+q1 c c a qf0 a b c R L L
+q4 a * * q1 b c * R L *
+qf1 a * c qf1 b a * R L L
+qf1 a b * qf1 b c a R * *
+q3 b a a q3 a * b L L L
+
+MultiTapeMachine 3
+abaaacaccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b a q1 * * a L R *
+q0 c * c q0 * * * R L *
+q3 c * a qf1 c a b L L R
+q3 * * b q2 a * a R R L
+q0 * a b qf0 c c * R * *
+qf1 * a * q3 b a a L R R
+q1 c c b qf0 a b a * * *
+q2 c c b q2 * c a * R R
+q3 c b c qf0 c b * L R *
+q4 c b a qf1 b c c L L R
+
+MultiTapeMachine 3
+cabacabbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccaabcbbacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * b q0 a a b R L *
+q4 a a a q0 * * a L * R
+q0 b c a q1 b b * L L L
+q2 c a c qf0 * c * L * L
+qf0 a * b q4 c a * R R R
+qf1 b b * q0 b b * L L L
+q1 * c a qf1 c a a L * *
+q0 c * * q0 a c a L L *
+q3 c c b q1 a * c * L *
+qf0 * b a q4 a b c * * *
+
+MultiTapeMachine 3
+ccabbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbcacbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b * q0 c a c R R *
+qf1 * b a q3 * c b R L L
+qf1 * b b q4 b c c * L R
+q0 a * a qf0 c b c * L R
+q2 c b * q2 c b b * L L
+q2 c a c q2 b b * R L R
+q0 b c c q4 a c b R L R
+q2 c c b q2 * c b * R *
+q0 c a b qf0 * c c R R L
+q4 b a * q2 c * c * R L
+
+MultiTapeMachine 3
+caacaabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbbccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabbabcccabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * c b q2 a * c R * R
+q2 a * b q2 b a a R * R
+qf0 a b a qf0 b * * L * R
+q0 b c * q0 b a * R * L
+q3 c c * q3 c b a * * R
+q0 b b * q1 b a a * * *
+q4 * b c qf0 c c c L * *
+q2 c c * qf0 * b * R R R
+q1 c * c q3 b b b R * L
+q3 * c a q2 b c b L R *
+
+MultiTapeMachine 3
+cccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcccacacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacabcacccacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b b b qf0 b b b L L R
+q2 c c c qf1 c a b * R R
+q3 b b * qf1 a c c L * R
+q0 b c b qf1 a b * * * L
+q3 c a a q1 * * * L L R
+q1 a b * q2 b a b R L *
+qf1 a * * q0 a * * * R R
+qf1 a c * q1 c b * R L *
+qf1 c c b q0 a * c * * R
+qf0 * * a q4 a * c * * R
+
+MultiTapeMachine 3
+aaaccbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcbaaccbabbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbaacbbccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b a * q2 b c b R L *
+qf1 * b b q2 c a c * * L
+q2 a c a qf1 b b b * * L
+qf1 * c * q0 a b b * L L
+q1 b * * q1 a b * * L R
+qf1 * * b qf0 b c b L R *
+q4 b a c q0 c * c L L *
+qf0 * b c q0 c c * L R L
+q4 b a a q3 b * a R * *
+q2 a b a q4 c c a R * R
+
+MultiTapeMachine 3
+ccccbbbcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * a a q0 * b c R L *
+q0 c * a q4 c * b * L L
+q0 a * c qf0 a c a L R *
+qf0 * a a qf0 c a a * R *
+q0 b a c qf1 a * a * * *
+q3 b * b qf1 * c * R L L
+qf0 b a * q1 a a b L * R
+qf1 * a * q2 b a b * L L
+q3 b b a q3 b a b L R *
+q0 b b * q2 c b c L * R
+
+MultiTapeMachine 3
+baabbcacabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacaaaaabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * c b q3 b b * * L L
+q1 * c a qf1 c a * L * R
+qf1 c a c qf0 c c b * R L
+q4 * c a q4 c c a L R L
+q4 a * a q3 * * b L * L
+qf1 * * a q4 * * c * R R
+qf1 b b b q1 c * c R L *
+q0 a a c qf1 b * a L L *
+q4 a a a q4 b b c * * *
+q0 c a * q4 * a * * L *
+
+MultiTapeMachine 3
+ccabccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaccbbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * b qf1 c a b R L R
+q0 a c b q3 c b c L R L
+q2 b a b qf0 * a a * R R
+qf0 * * c q1 a a b * * L
+qf1 * b a q2 a b c L L L
+qf1 a * * qf0 c b * L * *
+q2 b c b q2 c a c L L R
+qf1 b a * q2 a c * R * *
+q3 a * b q2 b c b L R R
+q2 * c b q4 c b b * * R
+
+MultiTapeMachine 3
+cbbcccbabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b b * q2 b a b * R R
+qf1 b * c q1 * c b * * L
+qf0 * * b q3 b b * * L *
+q4 c * a q2 b c c L R L
+q2 c * c q0 a a c * L L
+q2 * * a q2 * b b R L L
+q1 a c c q0 c b c L * *
+qf1 * * * q3 * a * L * *
+q2 b c c qf1 * a a * L L
+q0 * c * q4 * c * L L *
+
+MultiTapeMachine 3
+bacbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcacaccabbcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccccabccaabaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * a b q4 c * a R R R
+q2 * c c q3 a * c * * L
+q2 b * a q3 a * c L L R
+qf1 b c b qf0 b * c L R *
+qf1 a c * qf1 a a b L L *
+q0 b c c qf0 a * a L * R
+qf0 b a * q3 * b c L R L
+q1 * b c q1 c c * * R *
+q3 a * c qf0 c * b L L *
+qf1 * c a q2 c b a R * L
+
+MultiTapeMachine 3
+cbcbbabaaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaabcababacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacbacaacccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a c * q4 c a * R * R
+q4 * b a q1 b a a * L L
+q3 b a b q4 * b a R * *
+q0 a * * qf1 c a b * L L
+q2 b * * q0 b * b * L R
+q1 a a c qf1 a b b R * L
+q3 b b b q1 c a c * R *
+q3 b a c q2 b c a * R *
+q1 * b c qf1 c * a * R L
+q2 a c a q3 b b b * L *
+
+MultiTapeMachine 3
+acaaaaabbbcbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaacabaaabccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b c qf0 c b a * L L
+qf0 * * b q3 * * b L R *
+qf1 b a a qf0 * c b L L *
+q3 a * c q0 a c b R L R
+q3 a c b q2 * a a R R L
+q0 b a * q1 * c b R * R
+q4 c b c q4 c * a L * R
+q3 b * * q4 * * * R R R
+q1 * a b qf0 a b b R R R
+q0 a * b q1 a a b R L R
+
+MultiTapeMachine 3
+cabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccabaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababbcbbaabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c c q1 c c c L L R
+q0 * * c q4 * a * * L L
+q1 * b * q3 a a * R L *
+q2 a b b qf0 c c c R L R
+q0 b * c q0 c * c * R *
+q4 c b b q1 * * c L L R
+qf1 * * a q2 * * b * L R
+q0 a b a q3 c c a * R L
+qf1 a b b qf1 c c a R L L
+q4 b b * q1 b b * * R R
+
+MultiTapeMachine 3
+accbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccaacccabbabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbccbbababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a * * q1 * * * R * *
+q0 c a c q2 a a b * * R
+qf0 a b b q4 b * b L L R
+q1 a a a q0 c * b L L L
+q3 b b b q2 * c a R R R
+q2 c * b q1 b * * R L L
+q4 * c * q0 a c a R R *
+q3 b b b q1 a a c L R *
+q1 a a * q0 * b a R L L
+q2 a c a qf1 b b c * L L
+
+MultiTapeMachine 3
+ccbccacacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b * q0 * c * * L *
+q1 b * c q0 * b b * * *
+qf1 a b b q1 c c * R R *
+q1 a b * q4 b a a R R L
+q0 c c b q3 * b b * R R
+q2 b b * q2 b b * L L R
+q4 * b * q3 * * b L * R
+qf0 c c * q1 b a * * * L
+qf0 b b * qf1 a c b L R L
+q1 b b c q1 a b b R L R
+
+MultiTapeMachine 3
+ababcbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaabcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbacbabbbbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a a b qf1 * * c L L L
+q1 b b a qf0 b b * R R R
+q2 a b a qf1 b b * R * *
+q3 a * * q4 a b c R R *
+q0 b a * q0 b b b R L L
+q0 * * b q0 b a * * R L
+q2 b * a qf0 a * a * R L
+q4 b * b q4 c b * L * *
+q0 b b * q1 a b b * R R
+q0 b a * q0 a * * L L L
+
+MultiTapeMachine 3
+aaccbabbaababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacaccccbcbabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * c * q3 * c a L L L
+q1 c c a q2 b b b R L *
+q0 b c a q4 b c a * R L
+q4 a b * q0 a c c R R *
+qf0 c a * q3 a a b * L *
+qf0 * a b qf1 * * * * * *
+q0 b c b qf1 * b * R * *
+q1 c * b q3 b b * * * *
+q3 c * a qf1 * c a * * R
+qf0 * * * qf1 * a b * L R
+
+MultiTapeMachine 3
+acaacacaabcbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b c b q3 c b c R * R
+q3 b b a qf0 b c c * * R
+q4 b * a qf0 a b * R L *
+qf0 * c b q2 * a * L R *
+q4 c b a q2 * * a R R *
+q0 * b b q0 b a * R L L
+q1 a a b q3 a b c R * L
+q4 c a a q1 c b c R * R
+q4 b * c qf1 * a c * * R
+q4 * a c q3 a b a R L R
+
+MultiTapeMachine 3
+cbcacbccaacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccbcccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabacaccbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a b a qf1 * a c * R R
+q0 c a * q0 b * c L L L
+qf1 c b b q0 * b c * R *
+q3 a c * q4 c a b R R R
+qf1 b a c q2 a b a * * *
+q3 * a a q2 b * a R L L
+q0 b c c q0 * a b * R L
+qf0 b * c q0 a b * R * R
+qf0 * b * q2 a b b * R L
+q0 a a * qf0 * a a L R R
+
+MultiTapeMachine 3
+aabccaabbbbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a a q1 a b b L R R
+q3 a * a q1 c b * * R L
+qf1 * c c q3 c * a R * R
+q0 * c c q4 * a * R * R
+q3 c a b q1 c c b * * L
+q0 c * a q4 c * b R * L
+qf1 * * * q0 * c * * L L
+qf0 b b b q0 * b * R * *
+qf1 b a a qf1 * a c * * L
+q0 * c a qf1 c a * * * *
+
+MultiTapeMachine 3
+baaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * b a q3 a * c R L R
+q0 b c a q3 c a * L R L
+q2 b * b q0 c * c R L *
+qf0 b b b q1 a b c R L R
+qf1 c b b q3 c c a R L R
+qf0 a c c q2 * b * L * R
+qf0 c c c q4 c b c * L R
+q0 * b a q0 * a a R R R
+q2 c c a q1 a a c L R *
+q4 c c a q2 b c * L R R
+
+MultiTapeMachine 3
+bcccabbcbacccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accaccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbcababbacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c * a qf1 b a a * L L
+q0 a b a q4 b a * L * *
+q1 a a c q3 * c * * R *
+q2 b a a q2 * * a * * L
+q2 a c a q2 * c * R L L
+qf1 b a c q2 a a * * R *
+q2 c b * q4 a c b * R *
+qf0 a * c q1 * * * * * *
+q3 * c c q4 a * c L L R
+q1 c a a q0 * c b L L *
+
+MultiTapeMachine 3
+abccbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabcacccbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbababccaacbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b a * q4 c * a L * *
+qf0 * b b q2 c c c L R L
+q4 a * * qf0 * b a * * R
+q2 a * a q1 c b c L L *
+qf0 * c * q2 * * a R L *
+qf0 b c a qf0 c b b R * L
+q1 a c a q0 a c b * * R
+q3 c * * q0 a a b R L *
+q2 c a c qf1 b * b R L R
+q1 * b * qf1 c c * * L R
+
+MultiTapeMachine 3
+bcabaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaabcbacbcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caccbcacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b c c q1 a a * * L *
+q0 * b * q4 b a c L R L
+q2 a * c q2 * b c L * L
+qf0 a * * q4 a b c R L R
+q0 a a a q3 * c b L R L
+q1 * * a q4 c a b * L *
+q2 a b a q1 b b b L L R
+q1 c c b q4 * * b R R *
+q0 b c c q2 c a b R R R
+qf0 c b a q4 * b * * * *
+
+MultiTapeMachine 3
+abcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbabcaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a c a q4 * a b * L R
+qf0 b a * q3 c a a L * *
+q0 b b * qf1 * c a * * R
+q2 c c b qf1 b b b R R R
+q4 * a c q3 c a a R R L
+q3 * b c q3 b * c L L L
+q3 a c c q2 * * a R R R
+q1 b c * q2 * c * L R *
+qf1 c * * q2 * b b L * L
+q1 b c b q0 b b c * R *
+
+MultiTapeMachine 3
+bccbbbaabcbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abccaacbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbcacacbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b c qf1 a * b * R *
+q4 * c * q0 b b a * * R
+q0 * b c q0 b * c R * R
+q0 b b a qf1 * c b L * *
+q4 b * * qf1 a c a R R R
+qf0 c a * q1 b a * R R R
+qf1 b c c qf0 * * a * * *
+qf1 a c b q0 c a a * R *
+q2 b * b q2 * * b R * *
+q0 a b * q4 c a b R * R
+
+MultiTapeMachine 3
+accaaaaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacacaaabbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbaccbabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * c b q4 a c a L * *
+q0 a a b q3 b c * L * R
+qf1 c a b q2 c a c L R *
+q3 a a * q2 c c b L R *
+qf0 b c * q1 * b b R * *
+q4 c a a qf0 * * * R R *
+qf0 * * a q4 a * c * L R
+q0 c a * q1 * * c R * R
+q4 b a c q4 b a a R L R
+q0 * c a q3 c a a * L *
+
+MultiTapeMachine 3
+aabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccbacacabaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bababcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c b c q4 c c * L L *
+q4 c a * qf0 * * b R * L
+q3 * * c qf1 * * a L * L
+q2 b c a q1 c b a * L L
+q4 b c b q0 a * b * L R
+q4 b * a q0 c b * * R R
+q2 c c c q2 a * a * R *
+q1 c a * q1 b b * R * *
+q2 * b a q0 a a b * R R
+q2 * c c q2 * b a * R R
+
+MultiTapeMachine 3
+caaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbbbccacbababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b c b q0 * b b L L L
+q3 c b a q4 a * b L R R
+q4 b b c q1 * b c R R L
+q3 b b a q4 b b c R L *
+q0 c c * qf0 * * * L L *
+q1 b * * q1 b c b R R *
+q1 a c c qf1 a * b R R *
+qf1 b a * q3 a a a L L R
+qf0 * c c q4 c c a R L R
+q3 c a a q3 a * c R * R
+
+MultiTapeMachine 3
+ccaaaabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaccbabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a a a q3 a a a * R L
+q1 c b b qf1 b c a * * L
+q4 a c b q2 a * c L L L
+q2 c * a q1 * b b L L R
+q0 a * a q3 * c * L R R
+qf1 c b * q4 c * * R * L
+qf0 a c * q0 b b * * * *
+q4 b b * q4 * b c * * *
+qf1 a b c q0 a c c L L L
+q1 a c * q1 b b * * * R
+
+MultiTapeMachine 3
+bbccbcbbccbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccbcccccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c b * q3 c * * * * R
+qf1 a c * q4 * a c L * L
+qf0 a b c qf1 a * c R * L
+qf0 * a a q2 c b a * L L
+q3 c * a q1 a * c R * R
+q0 * * b q0 b a c * R R
+qf0 a * c q1 c b c L R *
+q1 c a b q0 b * b L L *
+q1 c b a qf1 a b b R * *
+q0 b b a q0 a c b R * L
+
+MultiTapeMachine 3
+aacacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaacccbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbcacaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * b qf0 a a * R R R
+q3 a b * qf0 a c c L R *
+q4 c a a qf0 * b c * * *
+q4 * c a qf0 c * a R * R
+q2 * * a q0 b c * R L R
+qf1 a * b q2 * * b * L *
+qf0 b c a q3 b c * L L L
+q1 a b b q1 * * a L R *
+q3 * * * q3 b * b R L *
+q4 c a b q3 * c c * * *
+
+MultiTapeMachine 3
+aabbccbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbbbabcbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabccabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c * q2 a * c L * R
+q3 a * b q2 c a a R * R
+q1 * * a q2 c b c L L *
+q4 a * b q1 a b a * * R
+q0 * b c q2 * * c R R *
+q3 a a c q0 a b a * L R
+q1 b a a qf1 b * a * L *
+q1 a a c q1 * * b R R L
+q1 b c * q3 a * * * * *
+qf0 a b a q0 a a * R R L
+
+MultiTapeMachine 3
+caacbcaaccbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aababbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a * c qf1 a a b L L L
+q1 * * b q0 a c a * R L
+qf0 a a b qf1 c b a * * L
+q4 a b b q0 c * c R L R
+q2 c c a qf0 a * * R L *
+q4 c b b qf0 c a * L L R
+q3 b a b q3 b b b R L *
+q1 * c b qf1 a b b L L L
+q2 c a a q3 b * * L * R
+q4 c * b q2 b * b * R R
+
+MultiTapeMachine 3
+caabacbacaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * c q1 * c a R R R
+qf0 b c * qf1 b * * * L L
+q4 * b a q1 a c a R L R
+qf0 b a a qf1 * * b * * R
+q3 * * b q3 a a * L R L
+qf1 c * * qf1 * c * R R L
+q1 a * * q2 * * b L L L
+q3 b c * qf0 c c b L R *
+q3 a a a q3 c c c * R *
+q3 c a a qf0 c * * * R *
+
+MultiTapeMachine 3
+cbbcacacacbcbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccababcbcbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a b * q3 b a * * * L
+q2 c c c q3 c b * R R *
+qf0 a b * q1 * * a L R *
+qf0 a c c q3 * c b L L *
+qf0 a b b qf1 b b b * * *
+q1 a a c q4 c c a L * R
+q4 * b * q3 * * a L * *
+q4 * a b qf1 a b b R R *
+q3 a * b q4 c a a L L L
+q1 c b a q1 b c b R R L
+
+MultiTapeMachine 3
+bbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbababbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * a * q1 b b c R * *
+q3 c a b q1 c a c * L R
+q2 c b c q2 a b a L L *
+q4 a c c q0 b a * R R *
+q0 b c c q0 * c c R * R
+q2 a * c q3 a b * R * R
+q1 * b a q4 a * c R R R
+qf0 c b b qf0 a a * * * *
+q0 c a b qf0 a b c L R R
+qf0 * c b q4 * a b L * L
+
+MultiTapeMachine 3
+bbabcbbcbacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaacacbabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b * b q0 b c a * L *
+q1 a a a q4 * a c * L R
+q1 a b a q3 * b c R L *
+q0 c * c qf1 c * b R R L
+q1 * c c qf1 c b a L L *
+q1 c c * q0 b c a * * R
+q3 c * b q0 c c b * R L
+q3 b c b q0 c * * R * R
+q4 b * c qf1 * b c * L *
+qf1 * * * qf0 a a * L L R
+
+MultiTapeMachine 3
+aabccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacabbcacbbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacacababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c * q0 c a a * L L
+q4 c * b q4 b * a R R L
+q3 c * * qf0 a b * R R L
+qf0 b b b q4 a * * L L *
+qf0 b * * q0 * * c * * L
+q0 c a * q0 c * * R R L
+q3 b * c q1 b c a * L R
+q3 a * a q0 b c b R R R
+q4 c b b q4 a a b * L *
+qf0 a b * q1 b b c L L L
+
+MultiTapeMachine 3
+caabbbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcaaaacbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baababaabbbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a b a q0 a c c L L *
+qf0 a * * qf1 a a a L L R
+q3 a b a q3 b b * R R R
+q0 a c c q3 c * c R L L
+qf0 * a * q0 c a b L R *
+qf1 c a * q4 * b b L L *
+q3 c c b q1 a * c L L *
+q3 b c c q2 * a c R R *
+qf0 c a * q4 c * c L R L
+qf0 a * b qf1 b b a * R R
+
+MultiTapeMachine 3
+accabaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbcacbbaccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabbccabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c c c qf1 a b c R R L
+q1 b a b q3 b b b * R L
+q2 b c * q3 a b a R * R
+q0 b * * qf1 c a b * R *
+qf0 a a * qf1 a * c * L L
+qf0 c a b q2 b * c L L L
+q1 a a a q0 c c b L * *
+qf0 b * b qf1 c * * R * L
+q0 c * a q3 * b b R * R
+qf0 * b b q4 b c c L * L
+
+MultiTapeMachine 3
+ccaaaaaaccccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * c b q4 * b b L * L
+q1 c * * q4 a b a R L L
+qf0 c * a qf0 b c c L R L
+q1 c b a q2 * a a * R R
+q2 a a a q2 c a * R * R
+qf0 c a * q4 * a b L * *
+qf0 * b c qf1 c b * L R *
+qf1 b c b qf1 * b b L L R
+q4 c * a qf1 a c * R R L
+qf0 b b b q3 b c a * * *
+
+MultiTapeMachine 3
+caacbbacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbcaacccccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbaacaacbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b a a q4 c c a L * L
+q3 a c * q0 a c c L R *
+q4 b * b q4 b a b L * R
+q2 b c c q3 c c a * L *
+q4 * b * q0 b c a L * R
+q1 a a a q3 b a b L * R
+q0 b a * q0 * a a * L R
+q2 a b a qf1 c * * L * R
+qf1 c c a q4 c a c L * R
+q3 b c * q1 b a a R * R
+
+MultiTapeMachine 3
+cbcaabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbaacacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * c a q0 c c * R R R
+q4 * a c qf1 b a a L L R
+qf0 b b b q2 * * * L * R
+q3 b * * q1 b b * * * L
+q1 a b a qf1 b * b L * *
+q1 a b a q2 * * c L * L
+q4 a b * q1 a b * L * L
+qf1 b a c q4 * c b R R L
+q0 * b a q4 * * b L * L
+q1 * * a q3 * a c * * R
+
+MultiTapeMachine 3
+bccbccbbacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcacaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a b b q0 * b * * R L
+qf1 b a b qf1 a b * R * L
+q2 a a b q1 * c c * * *
+qf0 * b c qf1 b c b R * R
+q0 b b c qf0 * c * L L L
+q4 c a * q4 * * a R L R
+q4 b * c q2 * b * * L L
+q1 c * b qf1 a b c R R *
+q2 * * b q1 b b a R R *
+q4 c a * q3 * c b L * L
+
+MultiTapeMachine 3
+caaabbbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabbbbaccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbabcacbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a * * q3 b a c * R L
+q2 c a b q2 c a * L * R
+qf0 a c * q0 * c c L R *
+q0 c b b q0 * c c L * L
+q0 * c * q2 b a b R L L
+q1 c b * q4 * b * * * R
+q4 b a a q3 * c * * L L
+q4 a a c q2 a * * * * L
+q4 b c b q2 b b * R R L
+q2 c a a qf1 b b a L * *
+
+MultiTapeMachine 3
+accbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a c q2 * * b R L L
+q3 a a * q4 * c * R * *
+q4 b * c q3 b b b L L L
+q0 a * b q2 * b * L * *
+q1 * * * q4 c a c L * *
+q3 a * a q1 b c b L L L
+q2 b a * q4 * b a R L R
+q4 a a a qf1 b c * R R L
+q3 b c b qf0 c c a * L *
+q4 a b b q3 a c * R R *
+
+MultiTapeMachine 3
+abbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcabaaaccccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccbbcabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * a q3 * b a * R *
+q1 b c * q3 c c c L L R
+q0 * a c q4 a * * L * L
+q4 c c c q2 b b * R R *
+qf1 c c a q1 * c * R R L
+qf0 b * a q2 * a b R R *
+qf0 * * c q3 c * a L L L
+q1 c b c qf1 a c * R L R
+q2 a b b q1 c c b R L R
+qf1 a c * q4 c a * R * *
+
+MultiTapeMachine 3
+caacacbaccaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabacaacbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b c * q1 c c c R L R
+q2 b b c qf1 a * * R R *
+q1 c b * q2 * a a R L L
+q4 c * c q2 a * a L L L
+qf1 * * c q3 * b c R * L
+q3 a a * q2 a c * R R *
+q0 * b a q0 a b b * L *
+qf0 * * b qf1 c * c R L *
+q2 a c c q2 b c b R R L
+q3 b a a q1 c c b * L R
+
+MultiTapeMachine 3
+bbabcacacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a a c q4 b * a * R *
+q2 b c a qf0 * c b R R R
+q3 * c a qf0 * a a * L R
+q3 a b a qf1 a * a R R L
+qf1 c c b qf1 a b * * L L
+q3 * a * q2 * * a R L *
+qf0 b * b qf1 a b * * R R
+qf1 c b c qf1 * c a L R L
+q3 b c b q3 a * b L L R
+q0 a * a q1 a * b L * R
+
+MultiTapeMachine 3
+ccaabbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbcabcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacbbcbaacbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b c q0 a * c * * *
+q0 a c a q3 c b b L * L
+q3 a a a qf0 c b b L L *
+q1 a * c q1 c * a R L R
+qf1 c a b q1 c a c R * L
+q0 c a c q0 c b c L L L
+q2 b a c q0 * a c * R R
+q0 a b b q2 b b c R R L
+q0 c b b q1 c a c R L L
+q4 b a a q1 b b * R R *
+
+MultiTapeMachine 3
+cacabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaacccaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbbcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b * q4 * * a L * *
+q1 a c c q0 b * c * L R
+q4 * c * qf1 a * * R * *
+qf0 * * c q4 c b c L * R
+q1 * c c q0 c b b L * L
+q4 * c b q1 c * b L R L
+q0 c a c q0 a a c L * L
+q1 c * c q0 b c a * L *
+q1 b * * q4 c b b * * R
+qf1 * * a q4 * * a * L R
+
+MultiTapeMachine 3
+acbcababcbcbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacacaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c b b qf1 * b c R L L
+q0 b a c q4 c a b R L *
+q1 * c b q0 a b c R R *
+q4 * a a q0 b a a R L R
+q2 a * a qf1 * c b * R *
+q0 c a * qf0 b a * R L R
+q0 * b b q1 a a a * * R
+q1 * b b qf1 b c b R * R
+q0 b a c q2 * a * * L R
+q3 c b c q0 c a * L L L
+
+MultiTapeMachine 3
+bccbbbbcbcbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcbacbacccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbccbbcbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c a a qf1 a a a * * R
+q1 c b a qf1 c c * * * *
+q2 a c c qf0 c b c * R L
+q2 a c c q2 a a b R * R
+q4 * a c q4 a * a R R R
+q3 a a a q1 b c c * L L
+q2 b a * q1 c * c L * R
+q0 c * c q4 b a c * * *
+q2 a a a q1 * * a L L *
+q1 b b a q0 c * c R * *
+
+MultiTapeMachine 3
+cbabaaabbabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcbcacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b * q0 * a a R * *
+qf1 * * * q2 c * b L R R
+qf0 b c c q4 c b b L R R
+qf1 c b c qf1 * a b L L R
+q2 a b b qf0 c a c L * R
+q3 c c * qf1 c b b L R *
+q4 c a c q4 * b b R L L
+q2 * c * q4 a b c L R L
+q3 * b a qf1 * * a R L L
+q1 c * * q4 a b b L * R
+
+MultiTapeMachine 3
+ccaccbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabaaaaacacaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaccbcbacbbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * b c q0 c b b L R L
+q2 b a a q4 b a a R R L
+q2 b * * q1 a b c L * R
+q4 a a a q1 c * a * * L
+q4 b * * q0 a b a R * L
+q2 a b * qf1 * b * L R R
+q3 a * b q2 b * * L L R
+q0 b b a qf1 a c b R R *
+q0 * b b q3 c a a R * R
+q1 * c a qf0 b c a * R R
+
+MultiTapeMachine 3
+cccabbabacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbbbacaabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaabcccbbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c a * q3 c b b L L L
+qf1 * b * qf1 a c b * * L
+qf0 * c a qf1 c a b L L *
+qf0 c * c qf1 * b * L * *
+q3 c b b q1 a c a R * *
+qf0 b b a q3 c b * R * R
+q2 b * * q0 a b * L R R
+q1 b * a q1 c * c L * R
+q0 c * b qf1 c c * R L R
+qf0 * c a q0 a a c R R L
+
+MultiTapeMachine 3
+bbabbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabccccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabaaacaabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c a q3 c b * R R *
+q3 * a c qf0 * c b L * L
+qf1 c c * q2 c b c R * R
+qf1 b b a q0 a a c R * *
+qf0 a * c qf1 * * c R R L
+qf0 b * * qf1 b a * * L R
+qf1 b a * qf0 * * a R * *
+q4 b a * q2 * c c * * L
+q2 b b * q4 b c b * * L
+qf0 * c b q4 b a a R L L
+
+MultiTapeMachine 3
+ccabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbcacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabcbbbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b c * q4 a b a R L L
+qf0 b * * qf0 * a b R L *
+qf1 b * b qf0 a a * L R *
+q2 c b a qf1 a a * * * *
+q4 a b a q1 b c * * L *
+q0 c a c qf1 b * b * R *
+q1 * * b q4 b b b L * L
+q4 * a c q2 c a c R * L
+q1 c c a q0 * b b * L R
+qf1 c a * q0 b b c L R L
+
+MultiTapeMachine 3
+bcaaacbccaabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * a q4 a c c R L L
+q3 c c a qf1 a c c R L *
+q0 b a a q3 b c a L L R
+q3 a * a q0 a * a R L R
+qf0 c * b q3 b c b R * L
+q4 a a * qf1 c * * L * L
+q0 * * b q2 a a * * L R
+q1 a c c q4 * c c R * L
+qf0 * b * q0 * * * R * *
+q3 * b * qf1 b * b * L R
+
+MultiTapeMachine 3
+aacbccbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbaaacbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabbcbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * c q2 * a a L R *
+qf1 * a a q0 b c c R R L
+q2 c c * q1 * * a R * L
+qf0 a * b q1 b a * R L R
+q3 c * c qf1 c * c * * L
+q1 a a c q2 * c b * L R
+qf1 b * * q2 a * b * * R
+qf1 b * b q1 * b b L * R
+q1 * a a q2 a * * L L *
+q1 a * c q4 b * b R L *
+
+MultiTapeMachine 3
+bcabbbccacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c * a q3 a c c R * *
+qf1 a a a qf1 a b b L R L
+q4 * a b q2 a * a * L R
+qf0 c b b q0 a a a L * R
+q1 * c * q3 a * b * L R
+qf0 c a a q1 a * c L * L
+q1 a c * q1 * * c R L R
+q4 b b b qf1 c b b * R L
+q3 * b c qf0 b c b L R L
+q3 c a b q1 a c c * R *
+
+MultiTapeMachine 3
+aacaaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbcabbccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcbbcbcccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * b * q2 c * * R R *
+q1 * b a q1 c a * * * *
+q0 b b b q4 * c a * R L
+q2 a * a q2 * a * L R *
+q3 b c a qf1 * * a L * L
+q3 a * c qf1 c b a L * R
+q0 c b b qf1 c b b * R *
+q2 a * b qf0 c c c L * R
+q1 a a a q4 a * b * L R
+q3 b * c q2 b c c L R R
+
+MultiTapeMachine 3
+ccbbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcaccbbbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbcbbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b * * q0 * b c R R L
+q2 * c c qf1 c c a L * *
+q0 * c b q3 c b c L L *
+q2 a a a qf0 * * * L * *
+qf0 b a * q2 a b * * R R
+qf1 b a c q1 * a c * * *
+q2 a * b qf0 b * c L R R
+q4 * c * qf0 c a * * L L
+q0 a c b q2 b a a * * R
+qf1 c a a q2 b * a * R R
+
+MultiTapeMachine 3
+bcaacbbacccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbacccbbbbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbaabbcccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a a b qf0 * * * R L *
+q4 c b c q4 a a b R R R
+q3 c * c q2 * * a R L R
+q1 b a a qf1 * * * * L R
+qf1 b b a q3 b b * * * L
+qf0 a * * q1 b b c * L R
+q3 c a a q2 a * c R R R
+q1 c * b qf0 * a b R * L
+qf1 * a a q4 * * c * * *
+q0 b c a q4 c a b R L R
+
+MultiTapeMachine 3
+bbaacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbbaacbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c b * q2 a * * L * L
+q0 a a a q0 * * a L L *
+q3 b * * q2 * c c R * *
+q1 c b a q1 c b b L R R
+q0 a a c q2 a * a L * R
+q3 * a a q0 c * * L * R
+q1 b c * q3 b b a R * *
+qf1 b c a q1 a a a R * *
+qf1 c a a q2 b c c L R *
+qf1 b a a q4 a c c * L *
+
+MultiTapeMachine 3
+bbbababcccacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacaacbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbcacbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a a b q3 a * b R R L
+q0 * c a q0 b c a R * R
+q3 a * c q1 * a a * R L
+q1 b c * q3 a * * L L R
+q3 b a c q3 a * * * L L
+qf0 c a a q0 b a a L L *
+qf1 c * a q0 a a a * R *
+q2 b b c qf1 a * c L L R
+q4 c a a q3 a b * * R *
+q3 b c * q3 * b c R R L
+
+MultiTapeMachine 3
+cabbcbaaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaabcbabbabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c c qf1 * * b * L L
+q3 * * a q3 c b c R L *
+qf1 * * a q2 * c b * L R
+q0 c a c q3 c * c * * R
+q0 a a b q2 c * * * R *
+q2 a b c qf0 * b a L R L
+q4 a a * qf0 b a b L L L
+q2 b c a q0 a b a * R *
+q4 * * c qf0 b a * * R R
+qf1 b * a q0 * a b * L *
+
+MultiTapeMachine 3
+bccccbacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * b a qf0 * * b * * L
+q2 * b * q1 a * a L L R
+q0 a b a q1 a b c L R R
+q3 * * * qf0 b c c R L L
+qf1 * b * q3 b b c L L R
+qf1 c c * q1 * a b R R *
+q1 a * * q3 b b c L * *
+q1 a b * q3 * c * L * *
+q3 a * c q1 c a * * R *
+q1 b c b qf1 a a c L * R
+
+MultiTapeMachine 3
+bbccbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccabaacbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbaaaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c a * q0 b a a L R *
+q4 * b * qf1 b b * * R R
+qf0 c c b q0 * b a R L L
+q2 c b * q2 c * b R L L
+q1 c b b q3 * b c R * *
+qf1 * a * q2 a b b R * *
+qf1 * b a qf1 b a b * L R
+q1 a c c q0 * c a L R *
+qf0 b b a q3 a * a R L R
+qf1 c * c q4 b b a L L *
+
+MultiTapeMachine 3
+cbcacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbacccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b a c q3 * * a L L L
+q1 * * * qf0 * b * L * L
+q2 * b * q4 b c b L L R
+q0 b a c qf1 a a b L L *
+qf0 b c b qf1 b * c R * R
+q2 c * * q4 a * * R L L
+q0 * b a qf1 * b c L R L
+q2 a c a q3 a b b * R *
+q4 * c c q1 c b * * L R
+qf1 b * * qf1 c c * R R *
+
+MultiTapeMachine 3
+aabcabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaaacbaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaaccbbcabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a a a qf0 * a b * L L
+q1 a c b q1 c * a R R R
+q3 a * c q1 a a b * * *
+q4 * c a q0 * a b L R R
+q3 * c c qf1 * b a L * *
+q0 a c * qf1 a * c R L L
+q1 a b * q4 c c b L * *
+q2 * a a q0 * * c R L R
+q3 b c b q0 a a c R R *
+q0 c b * q1 b c a R L *
+
+MultiTapeMachine 3
+acabcbbbbcbbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbccccbccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b * * q1 c * c L R R
+qf0 c * c q2 c a c L * L
+q4 c c * q1 a c * * * L
+q3 c * c q4 a a b L L R
+qf0 b * b q2 * c * L L L
+qf0 c a * q2 a b c R L R
+q0 b a a q2 b a * * L L
+qf1 * b c q3 c b a R * L
+q2 a * c q4 a b b L L *
+q1 * b * q0 c * a R * L
+
+MultiTapeMachine 3
+acbaabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * b c q2 c * b * R L
+q0 c * c q2 b a * R L R
+q3 a c b q1 a a c * L R
+q4 b a * qf0 b b * * L R
+q4 * b * qf0 a c a R L R
+qf1 * * * qf0 c c a R R R
+q1 c * c q4 c * b R R R
+qf0 a b c qf0 * a * L R *
+qf0 c c * q1 c * a * R *
+q3 c * * q2 a b * R * L
+
+MultiTapeMachine 3
+acbaaababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b c q0 c b * * L R
+q1 a * a q3 c * b L * *
+q0 a a * qf1 c * c * R L
+q2 c a b q3 * b * * R *
+q4 c c b q2 b b b L R L
+qf0 a a a qf0 * * c R * L
+q0 * b * q2 c a b L * L
+qf1 * c b q0 a * * L * *
+q2 b * b q2 a c * R L L
+qf1 c a b q2 b a a L R R
+
+MultiTapeMachine 3
+cacacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbababbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbaaaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b b q1 * b b L L L
+q2 b a b q1 c a a * L *
+qf1 a c * q1 * * * * R L
+q0 * a b qf1 b b c L * *
+q2 * b * q2 c a * * L *
+qf0 * * b q3 * c a * L *
+q2 b a a q1 b b a R L *
+qf0 * * * q1 a * * * * R
+qf0 b a b q0 * * * L L *
+q3 c c b q1 a * c * * *
+
+MultiTapeMachine 3
+cbbccbaabcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbaabaacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaaccacbcbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * a c q2 * c b R L *
+q3 b * b q2 c * c L * R
+q4 * c c qf0 b b a * * L
+qf0 a b * q4 b a * L * R
+q3 * c b q3 c b * L R *
+qf1 b * c q1 c * b R * L
+qf0 * * b q0 * * c L * *
+qf0 * c b q3 * c c * L R
+q1 a c c qf1 * b a L L R
+qf1 c c * qf1 c a a R R R
+
+MultiTapeMachine 3
+cbcaaccbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acccabcabbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b * q4 a * c R R *
+q0 b a a q2 c b b * L R
+qf0 * b * q0 c b a L R L
+qf1 c a b q2 * c * R * *
+q3 b * c q1 * * a R * L
+q4 * c c q1 * c a * L L
+q0 b b a q0 * c a * * R
+q2 * a c qf1 c a a * * *
+q2 c c b q3 * c c * * L
+q3 c b * qf1 * b b L * L
+
+MultiTapeMachine 3
+cabccabbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aababcbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a b b q2 c c * * L L
+qf1 * a b q2 b c * * R R
+q0 a c * qf1 * b a * L L
+qf1 a b * q2 * c b L L *
+qf1 * a b q4 b c * * * *
+qf1 * c b q4 a c * R R *
+q4 c c a q4 * b * L R *
+qf1 c * b q2 b * c R R R
+qf1 * * a q4 a a c R R R
+q4 b c b q4 b c * * L L
+
+MultiTapeMachine 3
+cbabaabbbabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabcbbabacbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c c b q2 * a c * R *
+qf0 a * c q1 c a b L * R
+q3 c c c q1 b a c R L R
+qf1 c c * q4 b * b * R L
+q2 a c c q1 * b a R R *
+qf0 a c a qf0 b a b L L *
+q3 c b b q3 * c a R * R
+q3 a a b q1 c b * L L R
+q0 c a b q1 c a a R R L
+q1 b b c q3 * c c * L L
+
+MultiTapeMachine 3
+cccacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccabacbcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b a qf0 * * a L * *
+q3 c a a qf1 a * a R R R
+q2 * a b q1 b b a * R *
+qf1 c a c q1 c a * R R *
+q4 c a a q3 c c c * L R
+q0 * * b qf0 a b a R * *
+q0 c * c q4 * * * L R *
+qf1 b a * q2 b * a L * L
+q0 b a a q2 b c c * R L
+qf0 * * c q4 a b b * L *
+
+MultiTapeMachine 3
+acbabcccbabcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a * q0 * a a * R *
+q1 * * c q1 * a * L R *
+q0 c c c qf0 c c b * L *
+q3 a b a q4 * b a R * *
+q1 c c c qf1 a a b L R *
+q0 a * b q2 * c b L * *
+qf1 * * b q3 b a a R L L
+q0 b b * q0 b c a L L L
+qf1 a * a q0 b b * R L L
+q4 b * * q0 * b b R * *
+
+MultiTapeMachine 3
+ababbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaaccbbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c c q2 * a a R L L
+q0 * a * q1 b * b R * L
+q2 a a a q1 * c c L * L
+q3 a * c q2 a c c R L L
+qf0 c * c q0 a b c L * R
+q1 * * c q3 a * * * * L
+q0 c b a q4 c b b L * R
+q2 a * a q1 b a * * R L
+qf0 c b * q0 * b b R L *
+q1 * b c q3 a * a L * *
+
+MultiTapeMachine 3
+bcbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbacabacaaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a * c qf1 b b b L * *
+qf0 a * b qf1 c a c L L L
+q1 * c * qf0 b c a R * *
+qf0 * b c q3 c a c R * *
+q0 c a * q1 * b a L R R
+qf0 * * * qf1 a c * * * R
+q0 c c c q3 b * b R L *
+q4 b * b qf0 c * a L * *
+qf1 b * * q0 a * c L * *
+qf0 * c * q3 * c * R * *
+
+MultiTapeMachine 3
+bcbbccbabccbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabaaccabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b * b qf1 * c b R L L
+q1 c c b q0 a a b L * R
+q2 * * b q0 c * * R * R
+q3 b b a q3 b c b R L R
+q3 c c c qf0 b * c R * *
+q0 * * c q3 a c a L R R
+q1 b a b qf1 a * * R * L
+q4 c b c q1 a a b * * R
+qf1 c * b qf1 * c * * L R
+q3 c b b qf1 c a b * * L
+
+MultiTapeMachine 3
+aaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacccbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * b q0 * * a R R R
+q0 a b a q0 b a a * R R
+q1 b b c q2 c * a R L R
+qf0 a b * q4 c b c * L *
+qf0 c b * q1 * * a * L L
+q4 * c a q3 a b c * * *
+qf1 c * b qf1 b c b R L L
+q3 * b * q1 a * * L * *
+q2 b a c q0 c b c R L *
+q0 * a c q0 b a c * L *
+
+MultiTapeMachine 3
+aabbaabcbacabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacbcacacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbacbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * c c q2 a * c * L R
+q0 b * b q0 a b * * R *
+q3 b * b q4 c b a L * R
+q0 a b a q3 b * * * * R
+q3 a a a qf0 a c a L R L
+q2 b c c q1 * * a * L L
+q2 * * b qf1 * a * L * L
+q3 c c c q1 a * * * L *
+q3 c c * q3 c c * R L *
+q0 c a b q1 c b a * * L
+
+MultiTapeMachine 3
+acbbccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbaacabaaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * c b qf0 a a b L R L
+q3 a c b q1 b * b * L L
+q0 a b * q3 b * * L R R
+q3 c * b qf0 c * a * * L
+q0 b c b q4 b a * R * *
+q1 a c b q1 c * * L L L
+qf1 c b c qf1 a a c * R *
+q2 b b b q3 a c c L L L
+qf0 * b a q0 a * c * R R
+q3 a b c q0 b c * L R L
+
+MultiTapeMachine 3
+acaaababannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabbbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaaacabccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c a qf1 b a b R L L
+q4 a b c qf1 b c b L * *
+qf1 a c c q2 c * b R * L
+q2 c b c q1 a c b * R *
+q1 a c b qf1 c a b L R R
+q2 a c b q1 c c c R * R
+qf0 b a a q2 * c * R * *
+q2 b a * q1 * * a L R *
+qf1 c * c q2 * * c R R L
+q0 a b b q0 * * b * L L
+
+MultiTapeMachine 3
+ccbcbacbbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacbcabacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a * * q4 c * a L L *
+q1 b a * q2 c b b R L L
+q1 b c b q4 c * a * R *
+q2 * * * q3 a * c * * *
+qf1 c b a q2 * * b * L L
+q4 a b c qf0 b c b * R L
+q0 a c b q4 a * a L * L
+q2 b b * qf1 * * a R L L
+qf1 c * b q2 a c a * R R
+qf0 * b c qf1 c a c * L L
+
+MultiTapeMachine 3
+aacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccbbbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaabbabcabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * a a q2 * c a L * *
+qf0 * a a q3 b c a R R L
+qf1 b a * qf1 b a * * R R
+q2 a * a q1 c c b L * *
+q0 a c * q1 a c b R * R
+q3 a a b q3 * a b L * R
+q0 * c b q3 b c c R R L
+q1 a * b q2 c b b * L *
+q2 b * b q1 * * c * L L
+qf0 a b c q2 * b c * L L
+
+MultiTapeMachine 3
+caccbaabaabbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbbaaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c a q3 c c * * * R
+qf0 a * c q0 * b a * * L
+qf0 a c b q4 b c b R L *
+q1 b c b q2 * c a * * *
+q1 b c a qf1 b * a L R *
+q1 c c b qf1 c b a L L *
+q2 b * a q2 * c c L R L
+q1 a c * qf0 c a b R * L
+qf0 c * b qf1 b b * R * R
+q1 b c b q3 a b * L L R
+
+MultiTapeMachine 3
+bbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcababacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b a c qf1 b * * L L L
+q0 a * * qf0 c c a L * R
+q1 b b * q2 a c c R L *
+q2 b a a q0 b b a L * R
+qf0 * c * qf0 * * * R R *
+q4 * a b qf0 b a b * R R
+q0 c a * q2 c c c L L R
+q0 b a b qf0 b a b * R *
+q3 a * b q3 c a a * L R
+q2 c b b q0 a a a L * R
+
+MultiTapeMachine 3
+abcacbbbabcacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabcaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a * a q4 a a b L L L
+q3 * c b q4 * a b R * R
+q0 * b * q0 a a c * * L
+q4 c b c q4 * c b L L L
+q1 c c a q3 * b * L * *
+q3 * c c q1 c * * * * *
+q3 c b * q4 a c c L L *
+qf1 * a a qf1 b a * R * *
+q1 b c b q2 b c b R L L
+q3 c a c q3 * b c L L L
+
+MultiTapeMachine 3
+caabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcccabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b c b q2 c * * R R R
+q0 * c c q3 c c a R R L
+q2 * a b q4 * b * * L *
+q2 b c a qf0 c b b R R L
+q4 a b a qf0 c b * R * L
+qf1 c * a q0 a b c * R L
+qf1 a * b q3 * a c L R R
+q3 a a c q2 a a * R R *
+qf1 c c * q4 b c b R R L
+q3 c a a q0 b b b L L R
+
+MultiTapeMachine 3
+bbcbaabcaaaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabbacccbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcababcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * c b q1 c a * * L R
+q0 b c b q1 c c b R L L
+q3 c a * q3 c c c R R R
+q3 c * b q3 a b b R * *
+q3 * a a q1 a c b R R R
+qf1 b b a q3 * * c R * L
+q2 b a c qf1 c b * L L R
+qf0 b * a q2 a a b R L L
+q1 b b b q3 a c c L L L
+qf0 b b a q2 b b a L * R
+
+MultiTapeMachine 3
+aaaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccccbbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaaaabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b c c q2 a * a L L L
+q1 * * c q1 c a a * L L
+q2 c * * qf1 * b a L * R
+qf1 a b a q3 a c a L R L
+qf0 a a c q4 a c * L R L
+q4 c b b q2 a * b * * R
+q2 c c * qf0 a b * L * *
+qf1 c c c qf1 c a c R L *
+q3 b * * q2 a a a L R L
+q2 b c a qf0 b b a L L R
+
+MultiTapeMachine 3
+cbbcbacaaccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbcbaaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abccabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a a b q2 * c a * * L
+q0 a a b q1 a a * * L R
+qf1 c a b q3 a c * * * *
+qf1 * b c q2 * * a * R *
+q4 a b b q4 b * * L L R
+q0 c * c q2 b * b L * L
+q3 b c * q2 * b c * R R
+qf0 c c * q3 b * * L * R
+q0 * * * q2 b a b L R L
+q2 c a c qf1 c b c * * *
+
+MultiTapeMachine 3
+cbcaaccabbbaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * b a q3 b b * * L *
+qf0 c c a q0 a a c R * R
+qf0 c c * q3 a * a * R L
+q4 c * b qf1 a c * R R *
+q2 * * a qf0 c c a R L *
+qf1 c c c q1 c b a R * R
+qf1 c a c q2 * a a R * *
+q0 * c a q3 b * a L R L
+qf1 b a a qf1 b c a * R R
+q2 c c c qf1 * * * L R *
+
+MultiTapeMachine 3
+cabacacaabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbcbabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbabcccacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b a qf1 a c a * L L
+q1 c c a qf1 b * a * L L
+q4 a c * q2 b c a * L L
+qf0 c * * q0 a * a L * R
+q3 a c a q0 a c b R R R
+q3 b c b q0 b c a * * *
+q2 a c a q1 b * c * L L
+q2 * * a q2 b c b L R L
+q3 b a a qf0 b * b L L R
+q1 a * b qf1 c b * L R *
+
+MultiTapeMachine 3
+cccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbaaabbcccccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbbccccbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c b q2 c a c * R *
+qf0 b b * q1 b a * R * R
+q4 b b c q0 a b c R L *
+q1 c a c q2 * a * * R *
+q0 b b a q3 c * c L L R
+q4 * c b q0 * b * * * L
+q1 c a b q4 b * * R R R
+q4 * c c qf1 a b a * * *
+q2 c c a qf1 * b a L L *
+q1 * a a q3 c b c R L L
+
+MultiTapeMachine 3
+babcccababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c a * q4 a b * L L R
+qf1 c b c q4 c b a * R *
+q0 a b * q1 c c a R * R
+qf0 c b b q2 c b b L * *
+q1 c b b q1 b c a L R L
+qf1 a * c q2 c a c R L *
+q3 a * a q1 c b c * * R
+q0 * * a q1 c a b * L R
+q0 b a b q3 c * b * R L
+qf1 c * * q1 b c b * * L
+
+MultiTapeMachine 3
+cbbbcccbbabcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bababaaaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbcbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c * * q4 * a * L L *
+q3 c b b q0 * b a * R L
+q1 a a b qf1 a b b L * R
+q0 c c a qf1 c c b R R *
+q3 a a b q3 c c c * R L
+q0 * a c q3 a * * * * L
+qf0 * c a qf1 b b c L L *
+q0 a b a q0 * * c R L *
+q2 b * c qf0 * c c L R *
+q3 c b c q2 * c * * R *
+
+MultiTapeMachine 3
+baacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a a q2 * * a L L L
+q2 a c a qf0 b * c L R R
+qf1 c b * q3 * c a * L R
+q0 c c a qf0 b a c R * L
+q0 a b c qf1 a c b R R *
+qf0 * * c q2 * a * * * R
+q2 c * a q1 a * b L L R
+q3 c b c qf1 * * a R L L
+q1 a b c q2 * a * * L *
+qf1 a * a q2 c a * R L *
+
+MultiTapeMachine 3
+baaccbabaccbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbcbabaccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacaccbabaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b * * q0 c b a L R R
+q1 a a a qf1 c * b R R L
+q2 a c b qf0 b c b * L *
+q3 c b c qf1 b a * R L R
+q4 b * b qf0 c a c * R L
+q1 a b b qf1 b * a R L L
+q0 a b b q0 a a c R L *
+q3 c b c q2 a a * * L *
+qf1 b a a q2 b c * R R L
+q0 b * b q2 * c * R R *
+
+MultiTapeMachine 3
+aaaaccbacbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacaaccabababannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b b q0 b b c * L *
+qf1 a * a qf1 a b * L * R
+qf0 b a b q2 * b a * * R
+q3 a * c q1 * a a L L L
+q0 c c a q2 * c c L L R
+q4 c c c q0 a c b * R *
+q1 a c b qf0 * * a R * *
+qf1 c a a q0 b b b R * R
+qf0 b c a qf1 c b b * R L
+q2 * * c q4 a b b * * R
+
+MultiTapeMachine 3
+bacacbababcabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbabcbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcaaaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * a a q2 b c c L L L
+q2 b a b qf1 * c c L R R
+q1 c * b qf1 * b * R * *
+q1 b a a q4 a a c R * L
+q1 b b b q1 * b c * R R
+q3 a b b q0 a c b * L L
+q2 b c c qf1 * * c * * R
+q3 a c * q4 c b * R * L
+qf0 * * b qf1 a c a L L *
+q2 c b b q3 b b c R * L
+
+MultiTapeMachine 3
+acbcbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a * a qf0 c b b L * R
+q0 * b c qf0 b b a * R *
+qf1 b c a q1 b * b L R R
+q4 * c c q4 a * b L L L
+q1 * * * qf0 * b b L L R
+qf0 b a c q0 c * c R R R
+q2 * a b q1 b * c R L L
+q0 a a a q1 * c c * * L
+q4 * c * qf0 a c b R R R
+q0 a a b q0 c a c L R R
+
+MultiTapeMachine 3
+caabbcacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbcaaabccaaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabbaacaacccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b a * q0 c c b R L L
+qf0 a b * q0 * c * * * R
+q2 b b c q3 c c c * L R
+q2 b a c q2 * a a L L R
+qf1 b b b q4 * a * * * R
+q4 b b a q1 a a a R * *
+q0 b * * qf1 a b b L L L
+q2 * a b q0 a a b R * L
+q1 a c b q4 a a c L L *
+qf0 a a a q2 b * b R L *
+
+MultiTapeMachine 3
+cbbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbacbabcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbabbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b * a q0 c a b * * R
+q2 a a b qf0 * a a R R *
+q1 b * b q1 * a c * R *
+q2 a a c qf0 b * c L * R
+q0 b b c qf0 * c b * L R
+q3 * b * qf1 c c b L L L
+q3 b c * qf0 c a c R R *
+q2 c a c q3 a c * L R R
+q3 b a b qf1 b c * L R L
+q4 a b b q3 a a * R L *
+
+MultiTapeMachine 3
+acccacacacbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbcbbbbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * * * q3 c b c L R L
+qf1 b a b q0 * b a R * R
+q0 a * a q2 * b b * L L
+qf0 * * a q1 a * b * R L
+qf0 c * b qf0 c b c L * *
+q4 b c * q2 c c a R L L
+q3 a c a q2 c * * R * R
+q3 a c b q0 a c * L * R
+q2 a b * q2 c a b L R R
+q1 * * a q0 * b a * L *
+
+MultiTapeMachine 3
+aacacacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabcabacbcacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccabbcacbcbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b b q0 a * c L L L
+q2 * a a q4 b a b L L *
+q4 c * * q1 a a * * * R
+qf0 b a c qf1 * a b R * L
+q0 b c a q0 a * b * L *
+q0 a * b q3 * b a R L *
+q3 c a a q2 a * * R L *
+q4 a b b q4 c c a R R R
+qf0 c * c qf0 * b * * R L
+q3 a a a qf1 * * a L R R
+
+MultiTapeMachine 3
+ccabacacabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaabacbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a c * q0 a b b R L R
+qf1 * * b q2 a * a R R *
+qf1 * a c q3 * a c * * L
+q1 a c b q4 * b a * * R
+q2 a a c q3 b a a L R L
+qf1 a * * qf0 b b a L L *
+q2 * a b qf0 c b b R * L
+qf0 c b b q0 c a * L R *
+q4 a a a q3 a c c * R L
+q3 * b c qf0 c c * L * R
+
+MultiTapeMachine 3
+acacacbabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcabbacbaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * a q4 * * a * * *
+q2 c a b qf0 c b c R L L
+qf1 c b c q3 * * * L L L
+q3 a c b q2 * a a L * *
+q4 c b a q4 c b c L * R
+q1 b b a qf0 * c c R L R
+q1 a * * q2 b a * L R R
+q0 b a c q0 b b c L R R
+q0 a c c q2 c c * L L *
+qf0 a * c q2 * b c R R R
+
+MultiTapeMachine 3
+bababbababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccaccbacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b a qf0 a * a * * R
+q0 * * a q4 * * a R L L
+q2 c b * qf1 c * b R L *
+q3 c b b q1 c a c * * L
+q0 b b a q1 a c b R L *
+q3 a * * q1 c a a R L L
+qf0 b c a qf1 * a b * * *
+qf0 a b b q1 * a b L L R
+q2 b * c q1 * a * * * *
+qf0 b c a q4 c b c * L *
+
+MultiTapeMachine 3
+ccccbbbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbccbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacabbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * c q0 * b b R R R
+q0 a c * qf1 a a * L * *
+q1 a a a qf0 c * * * L *
+q2 * * * q0 b * b L R L
+q1 * c c qf1 c b * R * R
+q2 * b * q0 * a b L R L
+qf1 a c c q1 * b b L L *
+q0 a a b qf1 a c c * L L
+qf0 a a b q2 c c b L R L
+qf0 b b a qf0 c * * L * R
+
+MultiTapeMachine 3
+caaccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c a q4 a c * R * *
+qf0 b c a q3 a b c * L R
+qf1 c b * q1 * b b R R L
+q0 b b * qf1 c a b * L R
+qf1 b * b qf0 a * c L L L
+q4 * a a qf0 c a a R R *
+q1 * c c q2 * * a L L R
+q1 b a c q1 b * * R R *
+q3 b b c q4 b a a * * R
+qf1 * * * q1 c a b * R L
+
+MultiTapeMachine 3
+bbabacbcccabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b a qf1 c * * * R R
+q0 * a c qf1 * b b L L L
+q1 c a b qf0 c a a L * *
+qf0 c * b q0 c a a * R *
+q1 c a a q2 * c * * L R
+q4 a * b q3 b c c * R R
+q0 a b * q1 c * c * L *
+q4 c c c q2 b * c R L *
+q4 * * b qf1 a c b R R *
+q1 a * c q2 c c c R * *
+
+MultiTapeMachine 3
+acabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbccaabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a * q3 b * a * L R
+q1 a c a qf0 b c a R * L
+qf0 b * b qf0 b * b R L *
+q1 c b * q2 c a b * L *
+qf0 c * b q2 a * c R L *
+q2 a c b q4 c c * L * L
+q4 a c * q1 b a a * * *
+q0 a a * q2 a c * R L R
+q3 a c c qf0 c c * L R L
+q0 b b a q3 a a * * * L
+
+MultiTapeMachine 3
+abbacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaccacccaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * * q1 c a c * * *
+qf1 a c * q0 * a c R R R
+q2 a b a q0 c * a R L *
+q1 * a c q2 * a * L L L
+qf0 b c a q3 c a c L * L
+qf0 a b c q0 b * c R * R
+q3 * b c qf1 c * * L * L
+qf1 b b c qf1 b c b * L R
+qf1 c c * qf0 a a * R * R
+qf0 a * b q3 * b a L R *
+
+MultiTapeMachine 3
+bcccbcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaaaabacbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * b q4 c c * R R R
+q1 * a * q0 * c c L * *
+qf0 c c * q2 b c c * * *
+qf1 b * a q0 a a c R R R
+q3 c c c q3 c c * L R R
+q3 c c a qf1 a a c R * L
+q3 * c a q2 a a c R R *
+q3 a a c q0 * c c * L *
+qf0 a c a q0 a * * L * L
+q4 * * a qf0 * a * R L *
+
+MultiTapeMachine 3
+bbbacabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b b b q0 a * b L L *
+q1 a b b q2 c * * L R R
+q1 b a * q1 a * b L L R
+q1 a c a q3 * b b R L *
+qf1 c b c qf1 a a c R * *
+q4 b b * q0 * a c * R L
+qf0 b c b q3 c a b R R *
+q0 b a a q2 c * b L L R
+q2 b * * q3 c * c L * L
+qf0 b c a q1 c b a L * *
+
+MultiTapeMachine 3
+acaccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c c q3 a a * * R R
+q4 c * a q4 * c b L * L
+q4 b * c q1 b b * L L *
+q2 * a a q3 * * b L * *
+q0 * a * qf0 * b b L R *
+qf0 c * b q0 a b b * R *
+q3 c b * q4 a b c R R L
+q0 c b c qf0 a c c L L R
+q2 a * * qf0 a c a * L *
+qf0 * b c q1 a c b L R R
+
+MultiTapeMachine 3
+cacbaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaaacacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabbbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * b a qf1 b c a L R *
+q4 c c * qf0 c b c * * L
+q0 b a a q0 a a a * L L
+q0 b * a q1 a c b * R R
+qf0 * * a q2 b * b * R L
+q3 * * b qf1 c a * * L *
+q4 a b b q4 a * b R * R
+qf0 c b b q2 c * b * L L
+qf0 b b * q3 a b * * R R
+q4 * c b q1 b b * * R R
+
+MultiTapeMachine 3
+abacccbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabacccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b * q0 b c a * R L
+q2 a b a q1 a b * L R R
+q4 * a a q2 b a b L R R
+qf1 a * * qf1 b a c L * R
+q1 b c * qf1 b * a R R R
+q2 a c * qf1 b c * * * *
+qf0 b * a q0 * a c R * L
+qf0 a a b qf0 b * * * R L
+q2 b b b q4 c b c R * R
+q4 a b a q0 a c * * * L
+
+MultiTapeMachine 3
+bcabacacaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaaaccccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbbbbcccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a * c qf0 c a c L * L
+q3 a b * q1 a c c R L *
+q0 a c c q1 c * * L * R
+qf0 * * * qf0 a c c * L R
+qf1 a * * q4 * c a * * R
+qf1 * b c qf0 a c * R L R
+q3 a a c q1 c c c L L R
+q0 c a a q4 c * * R R R
+q2 c b * q4 * b b * L R
+q4 a * b q1 c b * L R R
+
+MultiTapeMachine 3
+cabaacacbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacccacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a a c q4 b c * L L R
+q4 b a b qf1 a * b L R R
+q4 b a * q3 c b a R R *
+qf0 c b * qf0 b c c R L *
+q4 a b * q4 c a a R L L
+q2 a b * q0 a b b L R R
+q1 c b b q4 c c * * R R
+qf0 c * a q1 c b a * R *
+qf0 b a * qf0 b * * L R *
+q1 c a a qf1 c b b L R R
+
+MultiTapeMachine 3
+aabacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbcacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacbccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c * b qf1 a b b L L *
+q0 * * c q3 b b b R R L
+qf1 c b a q3 a b a R L L
+qf1 b b b qf1 * b * L L R
+qf1 a a c qf1 * * c * L R
+q3 * c * q2 c c * R * R
+qf0 a * * q0 * a * * * L
+q1 * b a q4 b b * R R *
+q2 * b * qf1 c b * * R L
+q2 b b a qf0 b * c * * *
+
+MultiTapeMachine 3
+bbbabbcabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbbbacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcbcabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b * q2 b * a R L L
+q2 * b b q0 c a * L L *
+q3 * * a q3 * b * R R R
+q0 * c b qf0 a c b L R *
+q1 a * b q3 * b b R * *
+q4 a a * q2 b a c * L R
+q3 b a b q4 c c c R * *
+q2 c * b q3 * b * R L R
+qf0 c c a q2 b * c R * R
+q1 a c b q4 * b b R R *
+
+MultiTapeMachine 3
+bbccbbcaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaacbcbacaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbacbbacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c * b q0 * * * L L *
+q1 * b b qf1 * a a * * *
+q1 a * c q1 a c b * L L
+qf0 a * c q1 c b a L R *
+q2 * * c qf0 a * c R L L
+q0 b a a q2 * b a L L R
+q1 * a c q0 * a b L L R
+q0 c * b q2 * a c R L *
+q4 a * c q0 b a a * R L
+q1 b c c q4 a c a L L *
+
+MultiTapeMachine 3
+abaaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbaabcbabccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bababccacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * b * q0 a b b L * R
+qf1 * * * q2 a a a * R *
+q2 * c a qf0 a b a * R *
+q1 b c b qf0 c b a * R *
+q2 * b b q3 * b b L L R
+q4 c c a q1 c c a R L *
+qf1 a b a qf0 * a b L R R
+q0 c c c qf1 c * * R R *
+q4 c * * q0 c c c L L L
+q4 a * c qf1 a c b L R *
+
+MultiTapeMachine 3
+ababbcabcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbccacbbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a b q3 a b b R R *
+q1 c * b qf0 a a * R R *
+q3 c c b qf0 b c * * R L
+q0 * * a q0 * * a R R R
+q1 a c a q0 * b b R R *
+q2 * * c q4 c c b * L R
+qf0 * c * q0 a * b L * *
+q3 c * * q0 * * c * R L
+q3 * * a q0 c b * * L *
+q2 c * a q3 b c * R L L
+
+MultiTapeMachine 3
+aaaaaaccacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccaabababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c * q0 a c c L R L
+qf0 a c b qf0 a c b * * R
+qf0 * * b q1 a b c * * *
+q2 b * a q3 * b c * * R
+qf0 * b a qf1 * b b L R L
+q1 b a c q1 b b a L * R
+qf0 * c a q2 b b a * R R
+q2 b * * q1 * * a L * L
+q1 * b c q1 * * a R L R
+qf1 c c * q2 c c * * L L
+
+MultiTapeMachine 3
+caaaaabcababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbbabbababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabacbcabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c c q3 b a a L * R
+q0 a * c q3 c c b L * R
+q0 c b c q0 * c b * * R
+q2 c a b q4 c c c L R *
+q1 c * b qf0 a b * * R R
+q3 a * a q2 c c c * L *
+q3 b * a qf1 b b c * L *
+q3 a a a q4 c a c * R R
+q4 b b a q0 * a a R L R
+q2 * a b q1 c a * L L *
+
+MultiTapeMachine 3
+bbcbccbcccaccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaccbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacaccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c a * qf0 a a a * L L
+qf1 b a a qf0 b * c L * R
+qf1 a c c q1 c * * * * R
+qf1 c * c q0 b * a L L L
+q0 c a a q4 * b b * L L
+q2 b a b q4 b b c R * *
+q4 * c b q1 c a * R * L
+qf1 a b * q1 * * * R R R
+qf1 a c b qf1 * a b R L R
+qf0 b c b q4 c * a * L L
+
+MultiTapeMachine 3
+cabbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcabbcaccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c * b q1 * * c * R R
+q0 * a b qf1 a * c R R L
+qf1 a * * q0 a a a R * L
+qf1 a * c qf1 c b b R L *
+q0 b * * q0 * * b L L R
+qf0 c c * qf0 a a a L R R
+qf1 c * * qf1 a a b * * L
+q0 b c c q3 a c a L * L
+q3 b c * qf0 * * b R R L
+q2 b b b qf0 a * * * * *
+
+MultiTapeMachine 3
+ccacacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbcacbccabbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b * c q1 b c c R L R
+q3 b * b q3 c a c L R L
+qf0 a c b q0 * * b L L L
+q4 * a b q1 b a b * R *
+q1 b c * q4 a a * * * *
+q3 * c c q1 a c c R * R
+q1 * b b qf0 b * a R * R
+qf0 c a a q0 c b * R R L
+q4 * c * q4 * a a R L L
+q3 b * b qf0 * a * * * L
+
+MultiTapeMachine 3
+bcaccbcacacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbacbbccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabacaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b b qf1 * a c * R *
+q2 * c a q1 * a * L * R
+q4 c * * q3 c c * * R R
+q3 b * b q1 c c a * R *
+q4 c c * qf1 a * * * L *
+q4 a a b q3 a * * R R *
+q1 a a c qf0 * b c R * *
+qf0 * b a q4 b a * * L R
+q2 a a * qf0 a b c L R *
+qf1 * * * q4 a b a R * *
+
+MultiTapeMachine 3
+baabbcabbbbcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaccacacbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * c q0 b b b R L *
+q2 c b b q3 * * a R R R
+q0 * a c q1 c a * * * R
+q3 * b c q3 a a a * R L
+q1 b * b q1 * * * * R R
+qf0 c * * qf1 b a a R L *
+qf1 b b a q4 a a a * L L
+qf0 b * a qf0 * c a R * *
+q2 a b * q4 b b b R L R
+qf1 c a * q3 b * a * R R
+
+MultiTapeMachine 3
+acaaabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabacaaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a b c qf1 * c b * * *
+q2 c c * q4 c a * * R *
+qf1 * a b q2 b a * * * L
+q1 b b c q2 * * a R * *
+q1 b a * q4 a b * R L L
+q0 c c b q2 a a a * L R
+q1 a b * q3 * c a L L *
+q3 b a a q0 * * b * * L
+q3 a * * q3 b a c R L *
+q0 b b * qf0 c c c L R L
+
+MultiTapeMachine 3
+cabcaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaaaccaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabbaabcbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c a qf1 b a * R * *
+q4 * * * qf1 b c * L R *
+q1 b c a q3 c c a R * *
+q0 a a b q4 * c c R L *
+q1 b b b q4 b c a L * R
+qf0 b a b q0 a c a L L L
+q4 * * c qf1 * a b L * R
+q4 * a c q3 a c b L R L
+q1 a b c q3 b * c R * *
+q4 * a * q3 a b b * L R
+
+MultiTapeMachine 3
+cacacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b c a q3 * b c L R R
+q0 b c * q0 b c b R L R
+q4 * a a qf0 a * c L R *
+q0 b * b q0 c c b * * *
+qf0 * b a q4 c a a * R *
+q4 c * * qf1 * * * R * R
+q1 * * c q2 c a * * R R
+qf0 c a a q4 * b a R R *
+q2 a * c q2 c b * R L R
+q3 * c c q1 c a a L R L
+
+MultiTapeMachine 3
+ccccccabcaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcabacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * b b qf1 c b a * L R
+qf1 a * a q3 a c * R R R
+q0 b * c qf1 c b a * R *
+q0 c * * q4 c * c * R R
+q3 c * c q1 c a a * * R
+q3 b * a q3 * c * * R R
+qf1 * b c q0 b b a L L *
+q1 b * b q2 b b b R L L
+q1 c c c q1 a b * L L R
+q0 * a * qf1 * * * L * R
+
+MultiTapeMachine 3
+abbaacbcaccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccbbabbaabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b * qf0 a c * * R R
+q3 c a b qf0 b * a L * R
+qf1 * * c q0 a c c R L R
+qf0 c b * q1 a * b * R R
+qf0 c b a q1 c * * L L R
+qf0 b c * q3 b * b R * R
+q4 c * b q4 b a c * R *
+q4 c a * qf0 c * b R L *
+q1 b * * q2 c b * * * R
+q1 b * b q3 * * b R L R
+
+MultiTapeMachine 3
+bbbbababccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacccbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabbcbbbacacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * * qf1 b b b R R *
+q3 b b c q1 a c c * * L
+q4 a c a q2 a * b * R R
+q0 a b a q2 b b b L R R
+qf1 b c b q1 b a * L L R
+q1 c c c q0 c a c R R *
+qf0 c b a qf1 * * a L R L
+q2 a a b q1 a a c * L R
+qf1 b a * q0 a c b R R L
+q3 * a a qf1 * c * R R L
+
+MultiTapeMachine 3
+ccacccbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacaabbacbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b * q1 * c * L R R
+qf0 b a * q1 a a * L L *
+qf0 a c a q4 a b c * L R
+qf1 * c * qf1 a c c R L L
+q1 * c a q1 a a b R L R
+qf0 * a c qf0 * a * R R *
+qf1 * a a q0 b b * L * *
+q2 a * a qf0 * b * * * *
+q0 c * * q2 c b * * L L
+qf1 b a a q2 a b * * L *
+
+MultiTapeMachine 3
+babbbccaaabaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babccccccbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * a * qf0 a b c R R *
+q3 a * b q0 a c a R * L
+q4 a b c q0 a a a R L R
+q2 * b c qf1 * * * * * *
+qf0 a b a qf0 a c b R L L
+q4 a * * q2 a c b L L R
+q2 c * b qf0 a c a R R *
+qf0 b b * q0 b c a * * *
+q3 b b * qf0 a a b L L L
+q2 a a * q4 * * a * * R
+
+MultiTapeMachine 3
+acbcacacacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a * * q0 b c c R * L
+qf0 * * * qf0 b c c * L R
+q1 c c a q4 b c b R L R
+q3 c a c q4 a a b R L L
+q0 b b a q1 c * * * * *
+q3 b c a q3 c c * * R L
+q3 a a b q0 a a b * R R
+q2 c b a q3 * b c R * L
+qf0 * a c q2 * * c R R L
+q0 a a a q1 c a a R * R
+
+MultiTapeMachine 3
+cbaacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c * qf1 c c c R R R
+q0 c b c qf1 a * * R L L
+q3 c * c q4 a b a * * L
+q2 * a b q1 * c * R R L
+qf0 b a c qf1 a * a R R L
+qf0 b c c q1 b c c * R L
+q4 b * c qf0 c * c R L L
+qf1 * c c q4 c c b R R R
+q3 a b c q3 c c * L R R
+q2 a c * q0 a b a * * R
+
+MultiTapeMachine 3
+ccabccbccacbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbcbbbaccaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b b qf0 c b b * * *
+q0 c c c q0 a b b L R R
+q3 * a a qf0 a * a R L R
+qf0 * b c q2 c a b R L L
+qf0 a b a qf0 c * a R * *
+q3 * * * qf1 a b a * * L
+qf1 * * b q2 b * * * * R
+q2 b * b q4 c b * * * L
+q1 a b c q2 c * c * R R
+q3 b b c q4 a b * R * L
+
+MultiTapeMachine 3
+ccbcccccbcbcabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacacbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbacbcbabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * a q3 a * a R * R
+qf1 b b a q2 c b a * R L
+qf1 * a * q4 * c a * L R
+q4 * * c q1 c b a * L R
+q1 c a b q4 a * a * L L
+qf1 * a c qf1 * b c R L L
+q4 c * b q4 * b c L R R
+q3 c b c q3 a * a L * *
+q3 * * a q4 * b * * * *
+q2 * * b q4 * * b L R R
+
+MultiTapeMachine 3
+bcbcbabbcccbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbabcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbaabcaabacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c b qf0 c c b L * L
+q1 c c a q2 c b * * R L
+q4 a a a qf0 a a a * * R
+q4 b * a q1 * c * R L L
+q4 c c b q3 b a c L L *
+qf0 a c * q2 c c * R L R
+q2 a c a qf1 a b b R * *
+q1 a c b q0 c c b R L R
+q2 c * * q4 c * b R L *
+q3 a c c q0 a c a * * *
+
+MultiTapeMachine 3
+bacbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacaccacaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabbcaaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b b a q4 c b c * * L
+q0 a c c q1 c * a L * L
+qf1 * * * q0 c c * * * L
+q2 c b a q1 * c * L * *
+q1 b * * q4 c c * L L *
+q0 * a c q4 c b a R R L
+q4 c * b qf1 c a a * * R
+q0 * a b q2 c a c * * R
+q0 b a c q4 a c a L * R
+q2 b a b q3 b b a L * L
+
+MultiTapeMachine 3
+cbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaccaacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * a a q0 a b c R R R
+qf1 * * a q0 b b * R R R
+q2 c * b qf0 b * c R * *
+q4 * c a qf1 a * a L L L
+q4 * a c q0 * c c * R L
+qf0 a a * q0 c * a * * R
+q1 b a b q3 c b c * * L
+q0 * * * q4 * b * L * L
+qf0 c b c q1 * * b * R *
+q3 b a b q3 a a a R R L
+
+MultiTapeMachine 3
+bbcbaaacbccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcabbcacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b b q0 b a a R L L
+qf0 b b c q1 * * b * L R
+qf1 b a a q0 * * a L * L
+q0 b b b q4 a a * L R *
+qf0 a a a qf0 * a c R R L
+q3 a * c qf1 c b b R R *
+q1 c b c q4 a a * L R R
+q2 a b c q3 c c b L * *
+qf1 a c b qf1 a * b L * R
+qf1 * a b q4 * b b R R L
+
+MultiTapeMachine 3
+cacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacacbaacaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbbabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * c q2 * * c * * L
+q4 c a a q3 * * a R R R
+q3 c b c qf1 * c c R R L
+qf0 c * a qf0 b a * * L R
+qf1 b b a q1 c b a * R L
+q4 b c a q1 c * * R R L
+qf1 * c c q0 * * c R L *
+q2 a b * q2 * c a L * L
+q0 a b b qf0 a a b L * L
+q2 * a b q4 c * b R * L
+
+MultiTapeMachine 3
+bbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbcbbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccaccaaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a * a qf1 a a a L R R
+qf0 * b b q0 c * a L R *
+q2 c c * qf0 a * * L L L
+q4 a b a q2 c b * R R R
+qf1 b b c q1 c b * * R L
+q4 a * a qf1 a b * * * R
+q1 b b * q3 a b b R R *
+q2 b b a q0 c c * L * *
+q1 c * c qf1 a b c L R *
+q4 * a c q1 a a b L * *
+
+MultiTapeMachine 3
+cabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabbccbaaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabcbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a * b q4 c c * L R L
+qf0 b * c q4 * a c R L R
+q3 b * a q1 a c b * L *
+q1 c * * q0 b * * L * R
+q4 a c c q3 a c b L L *
+q3 * b a q1 a b c R R *
+qf0 a a b qf1 c a * L R R
+qf0 * c b q0 c b b * * R
+q2 a b b q2 * * * L R L
+q0 a c c q4 * b * L * R
+
+MultiTapeMachine 3
+acbcbccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabbbbccacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * b q3 a b a R * *
+qf1 a a b q4 * c * * L R
+q2 a c b q1 b * * * R R
+q4 a a c q4 * c b L R R
+q0 b b b q2 a b c L R *
+q2 c c a q1 b c b R R L
+q0 * * b q3 a c b L * *
+q4 b * a qf0 a b a * L *
+qf0 b a a qf1 a b * L L *
+qf0 b a b qf0 * * c * * L
+
+MultiTapeMachine 3
+cbaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcaabcccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b c qf0 c b * R R L
+q1 b * * q2 * * b * * L
+qf1 * b c q0 b b * L L L
+qf1 a b a qf0 * b c * R *
+qf0 c * c qf1 a c b L R R
+q3 * a * q0 b c b R R *
+q3 b * a qf0 b c b R * *
+q3 b a a q3 * * b L * *
+q3 c c a q1 b * c L * *
+q3 a * b q0 b c * * L R
+
+MultiTapeMachine 3
+cacabbbbcbcbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbacbbaaaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccbabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b a a qf1 b * c * R R
+q4 c c * q3 b c * L L R
+q3 a c b qf1 * * a * L *
+q1 * c * q2 a c * * L L
+q4 b c b qf0 c c a * L *
+qf0 b * * q2 * c c R L *
+qf0 a a b q0 c b b R R *
+q1 b b b q4 a b c R * R
+q2 b c a qf0 a a * * * *
+qf0 b c b q1 b c * R L L
+
+MultiTapeMachine 3
+abcaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbacbbaaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b a qf0 c c c R * L
+q3 c c c q2 c b b * R *
+q0 b b a q0 * c c R * R
+qf1 a b a q0 * * c L R *
+q3 * c b q2 a b c * R R
+qf1 a a b q4 * * b L * R
+q0 * c b qf1 * b a R * R
+q3 * b * q2 b c * * * *
+qf0 c b a qf0 * c c * L R
+qf0 a * * q2 * * a R L L
+
+MultiTapeMachine 3
+acaacccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbbbbaacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a b q4 a c a L R *
+qf0 a c b q0 a a b R * *
+q2 c b b qf0 c b b * * R
+q1 * a b q0 a * b R L R
+q2 b c c q2 c b c R R L
+q2 * c c qf0 b * * * R *
+qf0 b a b q1 a c c * L L
+q0 b b b q0 a * a * R R
+q1 * c b q2 c * c * * L
+q3 c c a q2 a c * * * R
+
+MultiTapeMachine 3
+aabcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaacacccbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbcbabcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a a q1 b c * * * R
+q3 a c * q1 * * a R * R
+qf0 a * a q1 * a * L R L
+q3 * * * qf1 * * b L R R
+qf1 * c b qf0 a c a L R R
+qf0 * b a q4 c * c L L L
+q0 a * a q4 a c a L R R
+q1 a * c qf0 b * a R * L
+q3 * c * qf1 * c b R * R
+qf0 * * c qf0 a b b L * *
+
+MultiTapeMachine 3
+aaccaccbabacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a b q4 * a * R L L
+qf0 a b b q2 c b a L L R
+q2 b * a q2 a b * * * L
+q3 * c b q3 a a * * R R
+q0 a * b q4 * * b L * L
+q4 * a a qf1 c b c R L *
+qf1 * b a qf0 b b c R * *
+q1 * a * qf1 * a a R R *
+q3 * * b q0 a b * * R R
+q0 c a c q1 * c b L R L
+
+MultiTapeMachine 3
+cbaccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbacaabbaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcaccbcabcbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a a c qf1 c * * * * R
+qf1 a * c q4 a b b L * *
+q2 a b c q4 c a c * R R
+qf0 c b b q4 * b * R L R
+q3 b b c q1 b c c * * *
+qf1 a * a q3 a b b L R R
+qf1 * a c qf1 c * a * * L
+q3 * c a qf1 a a * R L *
+qf0 c c a qf1 b a c L * *
+q2 b a a qf1 b a c * R *
+
+MultiTapeMachine 3
+abbcacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcbcbccccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccabccaacacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b b q1 b a * L L *
+q3 * b b qf1 b * b R * R
+q0 c * * q4 * c a L L L
+q2 * * c qf0 c c c R R *
+q0 a * b qf1 a a b * R *
+q4 a * b q0 a a b * * L
+q2 * a c q0 b b b L R R
+q2 b a b q0 c b a R * R
+qf0 * b b q0 a b a * * *
+qf1 * * b q2 b b * L * L
+
+MultiTapeMachine 3
+cacababaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbcbcbbaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c * a q2 c b a L * L
+q3 c a a q2 c * c R * R
+qf0 b * * qf0 c * c L * *
+qf0 c b c q1 * * * * L L
+q4 * c * qf0 c b b R L *
+q0 c b * q2 c c a R R L
+q2 c a b q1 c a a R * *
+q2 a * a q4 c a a * * R
+q2 c * b qf0 c a b R R L
+q4 a b a q1 b * b L * *
+
+MultiTapeMachine 3
+baaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabcccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c b * q1 a c * * L *
+q3 a c * q3 b * c * L R
+q3 c b b q3 a * a L L *
+q0 a * * q2 a c * L * R
+q2 * b a q2 c b b R R R
+q2 a a c q2 c b * R * *
+q3 a a * q2 c a b R R R
+q0 a * * qf1 c a b R * *
+q3 a a * q1 c c a L * R
+q3 * c c q1 b a a R R L
+
+MultiTapeMachine 3
+accbcaccaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaaaaaacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabccaacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a a c q3 * * a * * R
+qf1 c a * q4 * c * L * *
+q3 b * * q3 * a a L L *
+qf1 b c * q3 * * * L * R
+q0 * * c qf0 c c b * R R
+q2 b a b q3 a * a L R *
+qf1 * a * q0 b b * * L *
+q1 a * a q3 b a b R * *
+qf1 a c a q0 * a a * * L
+q3 * * b q0 a * * R L R
+
+MultiTapeMachine 3
+bcbccbaabcaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbaccaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c a * qf1 c * * L R R
+q3 a b c q2 b a c * * L
+q1 c a * q3 c c b L L R
+q3 a c b q1 b a c R L *
+q3 * * c q2 a b a L L L
+q1 a c b q0 * c c L * R
+q0 b * a q2 a b b * L *
+q0 b c a q1 b c b L * L
+q4 c b b q2 b c a * L R
+q4 a c b q3 * c a R * R
+
+MultiTapeMachine 3
+bbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbaaacabbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacaabcbabbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * * c q4 * a b L R L
+qf1 c c * qf0 a * b * R *
+q1 a a c q3 b b a R L R
+q0 a b * qf0 b c a R R *
+q1 * a * q4 c c c * * L
+q2 b a a qf0 * * b L L R
+q0 b b b qf1 * * b R L L
+qf0 c c * qf1 c * b * R R
+q1 * b c q1 c * b * R R
+qf0 b b * qf0 a b * R R *
+
+MultiTapeMachine 3
+acbaaacababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacaaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabccbcbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b * c qf1 c * a R * L
+qf0 * c c q0 c a c L R L
+q1 c b c q3 * a a * * R
+q3 c c c qf0 * a * L R L
+q3 c c * q4 c b * R R *
+q0 * c a qf1 c * a R L L
+q3 c a a qf1 a * a * R *
+q2 a * a q1 a * * * R L
+q0 a * b qf1 * * b L * *
+q1 c c a qf1 b b b L * *
+
+MultiTapeMachine 3
+caaacabbcbcacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaccbccbcbaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbcabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b c q0 a * c R R L
+q3 * * * q1 * c a L L *
+qf0 * c a q4 * * b R * *
+q3 c * b q3 * b b R L *
+q4 * a * q3 c b * L R *
+q2 a c a qf1 c c * R L *
+qf1 * c c q3 a * b R * *
+q0 a a c q0 b a * R L R
+q1 c b a q4 * c a * L R
+q0 c c * q4 * b a L R R
+
+MultiTapeMachine 3
+aaacbbbaaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * a a q1 b b c * * *
+qf1 a c b qf1 a b b * R *
+q3 c b c q4 * a c * L *
+qf0 * * c q0 b c b L L *
+qf1 a b a q1 * * b L R *
+q3 c b * q3 a * a L R *
+q1 b b a q2 c c a R L L
+q0 * c c q2 b c c R L R
+q2 b * * q0 b b b L R R
+q4 * b * q1 c b * R L R
+
+MultiTapeMachine 3
+ccccaacacacaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabacaaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbabccbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b * b qf1 c c * L R *
+q4 a a * q3 b b b * * R
+q2 c a * q2 a a b R * *
+q4 * * c q3 a * * R * R
+q1 * * b qf0 c c b R L L
+q2 * c c q3 c c a * R R
+qf1 b c c q1 a c a * L *
+q1 c c * qf1 a c b L L L
+qf1 * b b q0 b * a L L L
+q1 c a c q4 b a a * * L
+
+MultiTapeMachine 3
+abcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b b qf1 b b b * R R
+qf0 b a a q4 b a b * * *
+q3 c a b q4 c b * R L L
+q2 * b c qf1 c * b * * L
+q4 a a a qf1 * c b * * R
+q0 a b a q0 a * b * * L
+qf0 a a c q0 a c * L R L
+q3 c c b q2 b c c * L L
+q2 c b * q1 b c a * L R
+q1 a a a qf1 * a b * * *
+
+MultiTapeMachine 3
+cbcbbbccacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacbabbbbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * b q2 b b b L L R
+qf0 c c * q3 * a * R L L
+q1 a c b q0 a c c R * R
+q0 a c c q2 a * c * * L
+q3 a b * q3 c a c R * *
+q2 a * a q4 a b a R L *
+q4 c * a q3 c * b L L *
+q3 c * * q1 * b a L * *
+q0 b * * q0 b c c L L R
+q1 c * a qf1 a a * * L *
+
+MultiTapeMachine 3
+ccccabcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbabaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcbcababbcaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a c c q3 a a * L R L
+q0 a c b q1 * * b R * *
+qf1 b c a q1 a c c R R *
+qf1 * c c q1 * a a R L R
+q3 b b b q1 c c a L * *
+q4 c a b q2 b c b R R *
+q3 c b a q2 * a b R L R
+q0 a * * q3 c b b R * R
+q2 * * * q1 * * a R * L
+qf0 a b * qf1 a * a L L *
+
+MultiTapeMachine 3
+bbcacacabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaabcbbabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a b c q3 * * b * * L
+q2 a b * q3 c a a * L R
+q0 * c c qf0 a c b L R R
+q4 c * c q4 a * b R * *
+q3 * c * q3 a c * * R *
+q3 c a * q4 b c b * * R
+q4 a * a q0 c b a * R *
+q2 c c b qf0 c * * L * L
+q0 b c b qf0 a b c R * R
+q0 * * a q4 c a c L * *
+
+MultiTapeMachine 3
+acabcacacabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbabbacbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * a * q1 c * * L * L
+q1 a * b q2 a a c R R L
+qf0 a a a q2 * * b R L R
+qf0 b a b qf1 c * b R R R
+q1 a a c qf0 c c a R L R
+qf0 a * a q4 a c a * R R
+q0 c b a q1 b * * R L *
+q0 * c * qf1 * a a * * R
+q0 * * a q0 a b a * * L
+q0 c * a qf1 b b * L L *
+
+MultiTapeMachine 3
+abcbccbaccbcbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcbaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbccacabcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * b qf1 a c * * L *
+q3 * c c q3 c * c L R L
+q3 b b c q1 b c a * * L
+qf0 a b b q4 * c * * L *
+q4 * c a qf1 b c * R L R
+qf0 a b a q4 * a c R L *
+q1 c * * q3 * a * L R *
+q3 b b c q4 b b * R * R
+q1 b a a qf0 a b c * R *
+q3 b * a q2 * * * * L L
+
+MultiTapeMachine 3
+bccabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbccaccbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaaaabbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * c c qf1 * a a L * *
+q2 a * a qf1 * * b L L *
+q3 c c b qf0 a a c * R *
+qf1 * c c q0 a c c L R R
+q1 a c * qf1 * b * R * R
+q3 * a c qf1 * * a L * *
+qf1 b c a qf0 c a a L * L
+qf1 c a * qf1 * * * L L R
+qf1 a * * q0 * * a L * R
+qf1 a a * q4 b a * * * R
+
+MultiTapeMachine 3
+acacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbbbcbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b b q4 a c c R L *
+q1 * * * q4 c a * L R R
+qf0 b a * q0 * a b * L *
+qf1 b c b q4 a a c L * *
+q0 * a b qf0 * * c R * *
+q0 c b c q0 c a b * L *
+q3 * a a qf0 c a a L * R
+q3 b * b q1 * b a L * R
+qf0 * c c q1 b a b * L L
+qf0 a * a qf0 * b * * * L
+
+MultiTapeMachine 3
+cccbacbcaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacbbaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * c a qf1 b b b L L L
+q0 a b c q1 c b b L L *
+q2 c c * q1 b c b R R L
+qf1 a c c q4 * a b R R *
+qf0 * c b qf1 b c c R * *
+qf0 b c c q1 b * * R R R
+q4 * b * q3 * * b R * *
+q1 b a b qf0 a b * R * L
+q3 * c c qf1 c a a R L L
+q3 c a c q1 b b * L R R
+
+MultiTapeMachine 3
+abbbacaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbcababbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcacbbbaaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c a qf1 c b a * * L
+q0 c c a qf0 * b b L R *
+q0 * a * qf0 c * a * L L
+q1 a b b q4 * b a L R R
+q3 * b a qf0 b b a * * *
+q0 c * b q0 a a * R L L
+q4 b b * qf1 b * c * L R
+q2 b b b q3 a a * R * *
+q4 c b b q4 a c c L R L
+qf1 * * * qf1 a a a L R R
+
+MultiTapeMachine 3
+baabccccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a b a q2 b * a L R L
+qf0 c b * qf0 c b * * * R
+qf0 a c c q1 c * b L L *
+q3 b a * q3 c b c L R L
+q4 * c c q2 b * a L L R
+q1 c b a q1 c c c * L L
+q4 c b * q3 c b * R R R
+q1 b a c q0 b b a L L *
+qf1 c c c qf0 c a b R L L
+q3 b c b q3 * a c R * R
+
+MultiTapeMachine 3
+bcaccbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacacbcccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacaabbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a a a q2 a b c R L R
+q0 c * c q1 a b * * L R
+qf1 * b c q4 c a a * R *
+q2 c * a q0 b * b L R R
+q3 b * a q0 * * b R * *
+q1 c b a q2 a * b R L L
+q3 a a a q0 a c b R R L
+q1 b a c qf0 c * a R L *
+qf0 c a a q2 * a b R * L
+q3 * b c qf0 b b b * * *
+
+MultiTapeMachine 3
+acaccaacabaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabccbabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbbaaababbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b a qf0 * c * L L L
+q2 b a b qf1 a * b R * R
+q4 b b c q0 b a a R * R
+q0 c b * qf1 b * c R R R
+q3 b a * q2 c a b * L *
+qf0 c * b qf0 * c a L * L
+q4 b a a q0 * a a L R L
+q2 c a a qf0 c a c L L L
+q0 * c a q2 c b c R L L
+q0 b * c q0 a b a R * L
+
+MultiTapeMachine 3
+bbabbccbaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaacbbbacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c a q4 b a a R R L
+q3 b c a qf0 * * a L L *
+q4 a * b qf1 a b * R R L
+qf0 c c * qf0 b * * R R L
+q2 * * b q0 b b a R L L
+qf0 b * c q3 a a a * R R
+q0 a a a q1 * b a R L *
+qf0 a b * q2 c b b L * R
+q1 c a c q3 c b * L R L
+qf0 c * a qf1 c b * R R L
+
+MultiTapeMachine 3
+acacbaaaccbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabbacbbabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b b q1 a c * * L *
+q2 b * c q2 c c b R R R
+q4 * b c qf1 b a * * * *
+qf1 b a c q4 a c a * L R
+q2 b a c q1 * c c * L L
+q0 * a * q4 a c c * L R
+qf1 c * * q3 b a * * R R
+qf0 * b * q2 * * a R R R
+q2 b * a q3 * c * L L L
+qf0 a a c q2 * * b * * R
+
+MultiTapeMachine 3
+aacaabcbabaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabaacaaacbababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a * b qf1 * c * * L R
+q0 * * a qf1 a b b R R L
+q3 * * b q0 * a a R L R
+q1 * * a qf1 c a * L R L
+qf1 * a a q2 b b b R L L
+q2 c a a q3 b * * R L L
+qf0 a a a q1 c b b * * *
+q2 * c a q1 c b a L * R
+qf1 b b * q4 a * b L L *
+q0 a c a qf1 b c * L * *
+
+MultiTapeMachine 3
+cbcaaacccacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caccabbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * c qf0 * * a * R *
+qf1 a b * q3 a * * L R R
+q4 b b b q1 c * b R * R
+q3 c b a qf1 * * c L R R
+q3 b a a q1 c b * * * R
+q1 c a c q1 a c b R L L
+qf1 b c c qf0 c a b R R L
+q0 a * c qf0 * c c R L R
+qf0 a c c q3 * * * L R *
+qf1 a b a qf1 * b * L * L
+
+MultiTapeMachine 3
+cacbaccbabaacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccacaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabbcbbcbbaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b * c q0 * a * * R R
+qf0 b b a q3 a c b * * L
+qf1 * b * q0 b * b L * *
+q4 * c a qf0 * c b * R R
+q3 b a a q4 a a b R R R
+q4 c a a qf0 c c c R R R
+q0 b b c q0 b a * R * R
+qf1 * a a q3 a a a L * R
+q1 * c * q0 a a b L R R
+q3 * b c q2 b * c R * L
+
+MultiTapeMachine 3
+baabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * * q3 b b a L L R
+q1 c c c q0 b b * R L L
+q1 c * b q2 b a a R * *
+q0 b b a q3 * c b R L *
+q2 * * a q4 b b c * R L
+q0 b * b q4 * a * * R R
+q3 * a * q4 * * a * L R
+qf1 b c b q2 c b * R L L
+qf1 a * a qf1 c c * R L *
+qf0 b a b q1 * * * L * R
+
+MultiTapeMachine 3
+abababcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * a a qf1 c * c * * L
+q4 b * * q0 c c c * L R
+q1 a b * qf0 c * a * R *
+q0 a c b q3 a b a * R L
+q1 * c a q4 b b * * R L
+qf1 b * a q2 a a c R L L
+q3 a a c q3 c a b L R L
+q0 a c b q0 * * b R R R
+q2 c * c qf0 a * a * * R
+q4 a * * q0 * a c R * *
+
+MultiTapeMachine 3
+aaccabccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabcbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * c q0 c a c * * *
+q2 b * a q2 c * * L * R
+q0 b a * q3 * * a L L R
+q1 a b * q3 c b a R R *
+q0 c b * q1 b b * * R R
+q3 c a b q2 a * c * L *
+qf1 c c b qf1 b a * L L R
+q3 b c b q4 * a c * R R
+q2 * b * qf1 c c b * * *
+q4 * * * q0 * a * L L *
+
+MultiTapeMachine 3
+cbcbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbacacbbabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaccbabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b a qf1 b a * R L L
+qf0 * a c q2 c b * R R R
+qf0 b a b qf1 b c b L L L
+qf1 c * a qf1 * c c * * R
+q2 a c * q2 b * b R R R
+q0 c a c q4 c b * R L R
+q0 * a b q2 a a c * L R
+q2 b a a q3 b b * L * *
+qf1 a a c q3 b b * L L R
+qf1 * b c qf0 * b * R R R
+
+MultiTapeMachine 3
+bbcaccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c c q0 b c * * R R
+q4 b * b qf1 b c a R L R
+qf0 * * * qf1 a c c * L L
+qf1 c c * q3 c * b L L *
+qf0 * a a q1 * * c R R L
+q4 c c a q0 b * a * L R
+q4 a c c q3 a * c * R R
+q2 * * a q2 b a b * * *
+q2 * a c qf0 * a * R * *
+q4 c c b q2 b * * R * L
+
+MultiTapeMachine 3
+babbccccaaaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acacaacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a b q4 c b c R R R
+q4 c c a q2 * a a * * R
+qf0 * a * q4 b c a * * *
+q3 b c * q2 b b c L L L
+qf1 * b a qf0 c b b R R *
+qf0 b c c q4 * a * R R R
+q2 b b b qf1 b c c * L *
+q3 b a a q3 b a c * R L
+q4 c b * q0 c * * R * *
+q1 * b c q3 a c a R * L
+
+MultiTapeMachine 3
+caccaaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbcbbbbbbaccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a b b q4 a a * L R *
+qf1 a b b q3 c a c L L L
+qf0 a * a qf1 a b a * L *
+q2 * b a q3 a b a * R L
+q0 * * b q1 a c b L R R
+q0 b b b q4 b c b R * R
+q2 b a c qf1 a * b L L L
+q2 * * * q2 c c a L R *
+qf1 c a * q3 b b b R R R
+q0 * * c qf0 b b * * L R
+
+MultiTapeMachine 3
+cbcbcbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * * q2 a * c * * L
+q3 b c a qf0 * c b * * L
+q2 b b * q4 c * c R * *
+q3 b a b qf0 b * c L * R
+q1 a b a qf1 a * a L * *
+qf1 c c b q3 c b b R L R
+q3 a c c qf1 c * * L R R
+q4 a a c qf0 c c a * L L
+q1 * * * q3 b * c R L R
+q0 b c b q1 * * b L * R
+
+MultiTapeMachine 3
+cbbbabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcbcbcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a c qf0 c b c R R L
+qf1 a * a q1 b a * R L R
+q2 c b a qf1 a b b R R *
+qf0 * * * q3 b a a * * L
+q0 c a b q4 a c * * * R
+qf0 c c a q0 * a c L * R
+q2 c a * qf1 c b c * L *
+qf0 a * a q0 c c * L R L
+q4 c c * qf1 c c a * R L
+qf0 b c c qf1 * b * L L *
+
+MultiTapeMachine 3
+cccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabcbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcbbcbcacabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * c * q1 * b a L * *
+qf1 b b b q0 * a b R * R
+q3 b * c qf0 * * c R * L
+q4 c b a q2 * b a R R *
+q4 c * * q3 c c a * * L
+q4 a b c q1 a a * R * L
+q1 b c b q3 b b c L * *
+q1 * a b q4 c * b R R R
+qf0 * * a q1 * b c L R L
+qf0 b b b q0 a c a R * L
+
+MultiTapeMachine 3
+accacbbcbacabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbababaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a b c q4 a b b L R L
+qf1 a c b q2 a a b L L L
+q2 * a c q4 a c b R * R
+q2 c c b q3 c b c L L L
+qf1 a b * q1 c c c * * L
+qf0 a a c q4 b c b * R R
+q0 a a b q1 c * b L L *
+qf1 c a b q4 a c c * L R
+q1 b * a qf0 b c c L * *
+qf0 * c * q2 b c a * L R
+
+MultiTapeMachine 3
+baccaaababaccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b * * q4 c * b L L *
+q1 b * b q2 * c * L R L
+qf1 * a c q0 b c * L R R
+q1 b c * q3 * b a L R L
+q4 * * c q3 a c a R L L
+q4 b * a q4 b a a * R R
+q3 c * * q2 b b b L R R
+q1 a c * q3 a b * R L *
+q2 a a c q4 a c a L R *
+q2 c c a q0 b * c * * R
+
+MultiTapeMachine 3
+abacaabccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcbbaacccbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a b c q3 * * * * R L
+q0 c a c qf0 a a a R R L
+q3 * * a q3 * b b * * L
+q1 * a a q1 * c a R R L
+q3 b c * q0 c c b * R R
+q4 * a * qf1 a b a L R R
+qf1 * a c q1 c c c L * L
+q0 a a a q0 a b a R L R
+q3 c c b q4 c a b R * L
+q4 a * * q2 * c b L R *
+
+MultiTapeMachine 3
+babaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbaaaaabbcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b a * qf0 a b * L R *
+q4 b c a q4 c a b R L L
+q1 a b * q0 b c b L R *
+q2 b a * q4 * * * R L L
+q0 b * a q2 c c c L * L
+q1 c * b q4 c a c * R L
+qf1 c b a qf0 a a a R * L
+q0 * * b q1 a b c L R *
+q4 * c b q2 b b * R R R
+q0 * * b qf0 c * b L L L
+
+MultiTapeMachine 3
+acbaccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbccaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a * q4 * * a R R R
+q2 c b c qf1 c c c L * L
+qf1 b * a q4 c * a L L L
+q0 a b * q1 c * b * R L
+q1 * a a q4 * * a R R L
+q1 * c a q0 c b b L L R
+q1 c a b q2 b * a L R L
+q3 c a * qf0 c c b L L R
+q2 b a * q0 c b * L * *
+q0 a * b qf1 b c b L R R
+
+MultiTapeMachine 3
+bbbbbaccaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c c * q4 b a c * * *
+q1 * c * q3 a b b * R L
+q1 c b b q3 b b a R R *
+q4 c a a q4 * c c * R R
+q4 a * * q2 a b c R * *
+q4 b * a q0 * b c * R L
+q0 c * b q4 b b a L R *
+q3 b b c q1 c * a L L L
+q3 c b b qf1 c c * L L R
+qf1 b c c q3 a * c R * R
+
+MultiTapeMachine 3
+ababbaccabbbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbbbcbbcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaaacbbaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a a a q4 * a c L R L
+q2 * a c q0 b c * * L L
+q3 * * b q0 b * * L L R
+qf0 * b c q1 c c a * * R
+q0 b c b q2 * a c R R *
+qf1 * * c q1 c c b * * *
+q3 c c a q2 * * b L * L
+q2 * c c q2 a * a L L R
+qf0 * a a q4 b a b L * R
+q4 a b * q2 * * a L R L
+
+MultiTapeMachine 3
+bcccbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababcacbcccaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbbabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c c c q0 b a a L * R
+q4 c b b qf1 c b * R * *
+qf0 b a c qf0 a b c R * L
+q1 b * * q2 a * b * L L
+q2 c a * q0 c c a * L R
+q1 * c a q2 c b b L L *
+q4 * * * q3 * a c * L L
+q3 * b * q3 * b * R R *
+q4 c a c q4 c * * * R L
+q2 c a * q1 b * a R * *
+
+MultiTapeMachine 3
+acaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbcaccaaacacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b c q3 c * a L L *
+q0 * * c q4 c a * * L R
+qf0 c a c q2 a b * L R L
+q4 b b c q4 b c * R L L
+q2 a b b qf1 b a a L R *
+q0 * * b q1 c b b R R *
+q2 b b a qf1 b c * * L L
+q0 c a * qf1 b * * * R *
+q4 a c * q4 b b c R R L
+qf0 b * * q4 * * c * L *
+
+MultiTapeMachine 3
+bcbbbaaaacbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacabaaacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b b q2 b * a * R *
+q3 * b a q2 * b a L * *
+q3 b a a q2 a a a R R *
+q1 a c a qf1 a c b * R R
+q4 b b c q4 * c b R L R
+q3 a a b q0 * a c * * *
+q1 a a c q4 a * b L * R
+q0 b c * qf0 * * * L L L
+q2 b b c q0 b c b R * *
+q1 b a * q1 * * a * * R
+
+MultiTapeMachine 3
+bbaccccbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabaccbbacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabaccabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b b a qf0 a * a * R *
+q2 a b * qf0 b a * R L *
+q3 c * * qf0 c b * L R L
+q1 * c b qf0 b * a * R L
+qf1 * b c q1 a a c R * R
+q3 * a c q2 b b b L R L
+q2 c * * q2 c c b * * R
+qf1 c a * q0 c * b R R *
+q4 c * a q4 b a a R L *
+q4 a a * qf0 c c b R R L
+
+MultiTapeMachine 3
+accccbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b * q2 a c c * * *
+q4 c a b qf0 * a b * R *
+q1 b * * qf1 b a * L R R
+q0 * a c q0 * b a * R *
+q0 b c b qf1 a a c R R R
+q3 a * * qf1 c b * * * L
+qf0 * b b q1 b * c * R L
+q3 * b * q1 b a c L * L
+q1 a c c q3 c b a L * R
+q2 c * a q0 c a c R R *
+
+MultiTapeMachine 3
+aaababacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbcbcbaababannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b b q4 b c c * * L
+q1 b a * qf1 b b b R * L
+qf0 * a b q3 b * * L R R
+q4 b c * q3 * * b L * *
+q3 a a c q1 a b b * * *
+qf0 b * b qf0 a b * * L L
+q0 b b a q4 a c b R L *
+qf0 a b * q4 b a b * * *
+q2 a c * qf1 c * c L L L
+qf0 * b * q2 * c * * L L
+
+MultiTapeMachine 3
+caabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabcbaccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbcacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c a b q4 * a a R L R
+qf0 c c b q1 c c b * R R
+q3 c * b qf0 a c b L R *
+q4 b a a qf0 a c c L * *
+q0 c * * qf0 * * b L * R
+q4 c b c q0 b b * L R *
+q2 a a b qf1 c b a * * R
+q0 a b b q4 * b c * R R
+qf1 a b b q4 b b b L * R
+q2 a a a q3 a c * * * R
+
+MultiTapeMachine 3
+bbcaabacccaababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * b a qf0 a b * L R R
+q3 c * c q1 c c c L R R
+q2 * c * qf1 * b a L L L
+q1 a a * q0 a c b * * L
+q4 a c c q3 a a * R L R
+q1 c b * qf0 c b b L R L
+q0 a b c q1 c b b R * L
+q1 a a * q2 * * b R * L
+q4 a c c q3 b a b L * L
+q3 b * a q2 c b * * R *
+
+MultiTapeMachine 3
+cccabbbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbccccaabbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c b q2 * c * L * R
+q0 * a b q2 b b c * L R
+qf1 c * * q3 * b a L R *
+q4 * b b qf1 b b b * R *
+q1 a c b q2 a * c * L *
+q2 c c a qf0 * a a * * R
+qf0 c * a qf1 b b b * R *
+q1 c b * q1 * b b R * L
+q0 b a c q3 c b * * * R
+q1 a * b q0 a c c L R R
+
+MultiTapeMachine 3
+aaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacccbaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * c * qf1 * a a * R *
+q4 b a a q3 a c c * R *
+q1 * b b q4 c c b * L L
+q1 a a a q1 * * * R R *
+qf0 * a a q2 c * a * R R
+qf1 * a a q3 a c * L * *
+qf0 b a b qf0 b c * * L *
+q3 c a * q4 * a c L * L
+q1 c b a q0 b b b * R L
+qf0 a c c qf1 c a a R L *
+
+MultiTapeMachine 3
+abbbccbbabcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabcbcbcababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacccacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * a q0 c c c * L R
+q2 * b b q1 c b b * L *
+qf0 b * b q3 * c a * * R
+q4 a b a qf0 b * c R * *
+q1 * c b q1 b a b R L L
+q1 a b * qf1 c a a L * *
+q4 a * c q1 c a c * L R
+q2 * a b q3 c a a * * L
+q3 a c * q1 * * c L * L
+qf0 c c b q4 c * b * R *
+
+MultiTapeMachine 3
+aacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbabacbabacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccabaaacbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * b c q0 b c b L L L
+qf0 b a * q1 * b b * * L
+q1 * * c q4 * * c * R L
+qf1 a * a q0 c b b L L *
+q1 * b c q2 c * a R R *
+qf1 b b b q1 * c * L * R
+q1 * * * q1 b b c * R L
+qf0 a b c q2 * * b L * R
+q3 a c c q1 * a a * R R
+q4 a * a q4 a c b * L *
+
+MultiTapeMachine 3
+bccaaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacacabbcaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaccbaccacbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * * b q0 a c c L R *
+q1 b * a q2 c b a L R R
+q2 a b * q0 c a c * * L
+q2 c b a q1 a c * R R L
+qf0 a c a q3 a a a L R R
+q2 c b b q4 * a c R L R
+q4 a a * qf1 * b b * * L
+qf0 b c c qf0 c b c R L *
+q4 c b b qf0 b a c * * R
+qf0 b c c qf0 c * c L L *
+
+MultiTapeMachine 3
+acbbbabaacacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccacaccabcbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a b a qf0 c c c L L *
+q4 b a c q2 * c c * R *
+q1 c c c q0 * b a L R R
+qf0 c c a q2 c b a L R L
+qf0 c c b qf0 a a a R L L
+q4 * b b q3 * b a R * R
+q3 * c * qf1 a a * L L R
+q2 c b c q3 a * a R * *
+q2 * b a q4 b c * L L *
+q2 b a * q1 b * b L R L
+
+MultiTapeMachine 3
+aaccacabbabaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacabacccacbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c c qf1 * b a L R *
+q0 b * a q4 * a a * R R
+qf1 a c a q0 a c b * * *
+q2 * * b q4 a c * * * *
+q4 c b a q1 b * b L L *
+q3 b a a q4 a b * R * L
+qf1 * * b q3 b b b * L *
+q4 c * b q3 b a a * L *
+q2 b a c q2 a c c R R L
+qf1 a a b q4 c a a R L R
+
+MultiTapeMachine 3
+bcaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbacaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a * * q0 c c c * R *
+q3 b * * q4 a a c R L R
+q0 b a b q3 * b c R R L
+q1 b b a q4 b * c R L R
+qf0 b * b q1 a b c R * R
+q4 b * b q3 b * b R * R
+q1 a c * qf1 * a c R * *
+q0 a * a qf0 * * a * R *
+q3 b a * qf0 b c a * * L
+q3 b c c q1 b b b R R R
+
+MultiTapeMachine 3
+babbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaaaaabbaccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbcabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c b * q3 b * c * R L
+q3 b * * q4 * b * L L *
+qf0 a * c q1 * * c * * R
+q4 c c b q1 a * a L R L
+q4 * a a qf0 c c a * L L
+qf0 b * * qf1 a b b * * R
+q0 c * * qf1 a c * L * R
+qf1 c b c qf0 * b b R L L
+qf1 c c b q1 a b c * * R
+q1 c c a q1 a a b L R *
+
+MultiTapeMachine 3
+ccaabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a a a q1 * a a * R L
+q4 a * c q2 c c * * * L
+q2 a b b qf1 b c b R * *
+q1 b c c q4 c b b L L L
+q1 a c * q0 b * * L * *
+q3 c * * q0 c a b R * R
+q4 c a b q4 a c c R R R
+qf1 * * * q3 * b b * * R
+q4 a * a q3 b a * * R L
+q4 b a * qf0 a b * * R R
+
+MultiTapeMachine 3
+baaaaccccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baababaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a b qf1 a b * * L R
+q3 b a * q3 c a * R L R
+q3 a a b qf1 b b c * R R
+q0 c * * q3 c * a * R *
+q1 b a * q0 c b c L * R
+q4 a * a q3 * a a * R L
+qf0 b b * q4 a c a * L R
+q0 * c * qf1 b b * R L L
+qf1 a a * qf1 b c b * R L
+q4 b c a q1 c b c R R R
+
+MultiTapeMachine 3
+abaccaabccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabaabbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * a c q2 * a b L L *
+q2 b c a q4 b a * R R R
+q3 a * b q4 * a b R * R
+q4 * c c qf0 c a a L * *
+q3 a * b q2 * * c R R L
+q3 b c a q1 b b * L L L
+q0 a * c q3 c b c L R R
+q2 c * * q2 * c b * L *
+q1 b * a qf1 c b b * L *
+q0 b * a qf1 c b c R L L
+
+MultiTapeMachine 3
+cbacaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaacbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabbccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * c a qf0 a c * * R *
+qf0 * * * q1 b b c L L L
+qf0 b b c q2 * * b R R R
+qf0 * * a qf0 * c * L R *
+qf0 c a a qf1 c c * * * *
+q3 b c c q3 c * c * R *
+qf0 c b * qf1 c c b * L R
+qf0 c a * q3 b * c L * R
+q3 c * c q2 b c b R L *
+q2 b b c q1 c b c * * L
+
+MultiTapeMachine 3
+cbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b a a qf1 a a b L L R
+q1 a b * q1 b b a * R L
+qf1 a b c q2 * b b R * *
+qf1 a c * qf0 a b * R R L
+q0 c * b qf1 b b c * L R
+qf0 b * b q2 * * b L R *
+q4 * c * q3 * c b R R *
+q2 a a a q1 a * a L * R
+q3 b a a q1 b a a R R L
+q3 b * a q0 a b b * * L
+
+MultiTapeMachine 3
+ccbcacbcaaabcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaabbbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbabcbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * c qf0 b a b R L *
+qf1 c b c q0 c a * L * L
+q1 b b c q3 a * c * R R
+q0 * c b q0 b * * R L R
+q2 a b * q2 a * b L R R
+q1 b * b q4 * * b * R R
+q0 * * c qf1 c c * * L L
+q4 * * * q1 c a a L R *
+q2 c c a q1 b b b * * L
+qf0 b b c q3 c * c L L R
+
+MultiTapeMachine 3
+bcaacacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaabbabaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * a * q0 a c b * L L
+q4 * a a q4 * * a R * R
+q3 a c * qf0 c a c R R L
+qf1 b * b qf0 a * a L R L
+q3 * b * qf0 b b a R * *
+qf1 * b * q4 * a * R * R
+q1 b c c q3 b * a R * L
+q0 b c c q1 b a b * L L
+q3 c c c qf0 * * a L R R
+q1 b a b q0 c c a * R *
+
+MultiTapeMachine 3
+cacbbaaccaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbcabbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a a a q2 b c * R L L
+q1 a * a qf1 c a * L * L
+qf0 b a c q0 * * a L L L
+q0 c b b q1 b b a L R R
+q3 b * a q3 c * a * L L
+q4 * a b q4 b * a * L *
+q3 c * b q4 a a c R L L
+qf0 * b c qf0 b c a L R L
+q4 b * b q4 c a a * L L
+q2 * b * qf1 * c c R R *
+
+MultiTapeMachine 3
+bbcabaabacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b a * q0 * c c * R L
+q3 * b c q3 b c * * L R
+q4 * c c q1 a c c R R L
+qf1 c b c q4 a * c * R L
+q4 b * * qf1 c c b R L *
+q4 a * a q3 a * a * R R
+qf1 a c c q3 b b c R R R
+q4 c c b q3 * c c * * *
+qf1 c b c q4 b a a L * L
+q4 c * b q4 b c c L * R
+
+MultiTapeMachine 3
+bcccbcaabccaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaabaaaabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * a a q2 b a a * R *
+q4 c a a q4 * * a L R *
+q2 * a b q1 a b c L L R
+q0 * * b qf1 c * * L L L
+qf1 * a b qf1 b a b R L R
+qf0 a b b q3 * c c R * L
+q2 c c * q1 c b b R L R
+qf0 * a c q1 b b b * * *
+q1 a c b q0 a * c * L L
+qf1 * b c qf1 c * a L L L
