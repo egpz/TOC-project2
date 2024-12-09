@@ -61,9 +61,12 @@ Lists, Dictionaries, Strings
 ## 11. What test cases you used/added, why you used them, what did they tell you about the correctness of your code:
 I used test cases with varying input sizes and edge cases, such as multiple tapes and transitions, to make sure that the Turing Machine simulator handled different configurations correctly.
 
-## 13. How team was organized and dynamics:
+## 12/14. How team was the team organized and code development managed?:
 I worked on this project alone. As such, I followed a similar structure used for project 1. I decided  what inputs would be needed and what I wanted them to look like. I used this to start  writing **generateTMInput.py**. Then I tackled actually creating the Turing Machine, which took the longest. I made sure the logic was correct by referencing the textbook. Finally, I made everything run automatically, assigning file names and cleaning up unnecessary files.
 
-## 14. What you might do differently if you did the project again:
+## 13. Detailed discussion of results:
+The output traces in the simulation, transitioned as expected and the correct messages, were printed for each input. The degree of nondeterminism varied across test cases, with some requiring multiple possible transitions at certain states. Some followed a single deterministic path which was nice. These traces confirmed that the program could handle both deterministic and nondeterministic transitions while still producing consistent and accurate results as seen with the different input and outputs. 
+
+## 15. What you might do differently if you did the project again:
 If I were to do the project again, I would of course start ealier. Hoenstly debuggin it was super difficult at certain points so I would implement more detailed logging to track each step of the simulation to make debugging and testing easier.
 
