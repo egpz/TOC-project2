@@ -23,25 +23,25 @@ Successful as far as I evaluated. The program anazlyzed the inputs well and it r
 
 ## 7. List of included files:
 **Code Files**
-[X] generateTMInput.py (Generates random Turing Machine input data)
-[X] runTMSimulation.py (Automates the entire process, assigns filenames, and manages file cleanup. Handles input/output naming for each run)
-[X] simulateTuringMachine.py (Runs the simulation on input data and writes result to an output file)
+- [X] generateTMInput.py (Generates random Turing Machine input data)
+- [X] runTMSimulation.py (Automates the entire process, assigns filenames, and manages file cleanup. Handles input/output naming for each run)
+- [X] simulateTuringMachine.py (Runs the simulation on input data and writes result to an output file)
  
   
 **Test Files**
-[X] TMInputs.txt  (Initial input file created by generateTMInput.py)
-[X] TMInputs1.txt (Generated input file, used for the Turing machine simulation)
-[X] TMInputs2.txt (Generated input file, used for the Turing machine simulation)
-[X] TMInputs3.txt (Generated input file, used for the Turing machine simulation)
-[X] TMInputs4.txt (Generated input file, used for the Turing machine simulation)
-[X] TMInputs5.txt (Generated input file, used for the Turing machine simulation)
+- [X] TMInputs.txt  (Initial input file created by generateTMInput.py)
+- [X] TMInputs1.txt (Generated input file, used for the Turing machine simulation)
+- [X] TMInputs2.txt (Generated input file, used for the Turing machine simulation)
+- [X] TMInputs3.txt (Generated input file, used for the Turing machine simulation)
+- [X] TMInputs4.txt (Generated input file, used for the Turing machine simulation)
+- [X] TMInputs5.txt (Generated input file, used for the Turing machine simulation)
 
 **Output Files**
-[X] TMOutputs1.txt (Output file for TMInputs1.txt)
-[X] TMOutputs2.txt  (Output file for TMInputs2.txt)
-[X] TMOutputs3.txt  (Output file for TMInputs3.txt)
-[X] TMOutputs4.txt  (Output file for TMInputs4.txt)
-[X] TMOutputs5.txt  (Output file for TMInputs5.txt)
+- [X] TMOutputs1.txt (Output file for TMInputs1.txt)
+- [X] TMOutputs2.txt  (Output file for TMInputs2.txt)
+- [X] TMOutputs3.txt  (Output file for TMInputs3.txt)
+- [X] TMOutputs4.txt  (Output file for TMInputs4.txt)
+- [X] TMOutputs5.txt  (Output file for TMInputs5.txt)
 
 ## 8. Programming languages used, and associated libraries:
 - Python:
