@@ -23,9 +23,9 @@ Successful as far as I evaluated. The program anazlyzed the inputs well and it r
 
 ## 7. List of included files:
 **Code Files**
-- [X] generateTMInput.py (Generates random Turing Machine input data)
-- [X] runTMSimulation.py (Automates the entire process, assigns filenames, and manages file cleanup. Handles input/output naming for each run)
-- [X] simulateTuringMachine.py (Runs the simulation on input data and writes result to an output file)
+- [X] TMInput.py (Generates random Turing Machine input data)
+- [X] runSimulation.py (Automates the entire process, assigns filenames, and manages file cleanup. Handles input/output naming for each run)
+- [X] simulateTM.py (Runs the simulation on input data and writes result to an output file)
  
   
 **Test Files**
